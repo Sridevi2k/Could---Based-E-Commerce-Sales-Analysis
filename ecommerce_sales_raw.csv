@@ -1,0 +1,1009 @@
+order_id,order_date,category,region,payment_method,unit_price,quantity,discount_pct,total_price,customer_age,customer_rating
+ORD-10113,2025-11-23,Sports,East,Debit Card,29.73,2,20.0,47.57,33.0,5.0
+ORD-10794,2025-12-14,Clothing,North,Debit Card,37.11,4,10.0,133.6,36.0,5.0
+ORD-10779,2026-03-20,Sports,West,PayPal,60.23,1,30.0,42.16,,5.0
+ORD-10643,2026-05-28, Beauty ,North,Credit Card,26.0,7,0.0,182.0,26.0,4.0
+ORD-10242,2026-03-26,Sports,North,Debit Card,68.98,5,5.0,327.66,36.0,5.0
+ORD-10420,2026-05-12,Electronics,East,PayPal,245.58,6,20.0,1178.78,55.0,
+ORD-10485,2026-02-16,Toys,North,Debit Card,30.21,7,20.0,169.18,61.0,4.0
+ORD-10270,2026-03-02,Beauty,South,Debit Card,46.9,5,10.0,211.05,16.0,4.0
+ORD-10598,10/31/2025,Books,East,PayPal,26.76,3,0.0,80.28,33.0,1.0
+ORD-10657,09/22/2025,Home & Kitchen,South,Debit Card,52.44,4,25.0,157.32,53.0,5.0
+ORD-10980,2026-01-26,Toys,South,PayPal,47.3,2,0.0,94.6,24.0,5.0
+ORD-10863,2025-09-19,Electronics,West,Debit Card,212.32,7,5.0,1411.93,34.0,5.0
+ORD-10547,2026-03-06,Books,West,PayPal,20.08,4,0.0,80.32,47.0,3.0
+ORD-10800,26-Jan-2026,Books,North,Debit Card,9.73,7,0.0,68.11,31.0,4.0
+ORD-10562,2025-08-12, Home & Kitchen ,North,Gift Card,62.87,1,0.0,62.87,38.0,4.0
+ORD-10810,2025-09-23,Electronics,East,Gift Card,206.37,6,0.0,1238.22,33.0,4.0
+ORD-10411,2026-03-09,Beauty,North,PayPal,23.7,4,0.0,94.8,36.0,
+ORD-10911,2025-08-18,Clothing,North,Debit Card,52.27,1,0.0,52.27,21.0,5.0
+ORD-10558,2026-01-24,Beauty,East,Credit Card,20.86,5,20.0,83.44,28.0,5.0
+ORD-10782,2025-10-05,Home & Kitchen,North,PayPal,78.36,5,15.0,333.03,37.0,2.0
+ORD-10024,2025-06-16,Beauty,,Gift Card,2.0,3,0.0,6.0,52.0,4.0
+ORD-10770,02/16/2026,Electronics,West,Debit Card,207.3,4,0.0,829.2,40.0,4.0
+ORD-10810,2025-09-23,Electronics,East,Gift Card,206.37,6,0.0,1238.22,33.0,4.0
+ORD-10504,2026-01-02,Beauty,South,Debit Card,26.59,6,25.0,119.66,54.0,3.0
+ORD-10009,2025-09-25,Home & Kitchen,East,Gift Card,75.06,6,20.0,360.29,32.0,1.0
+ORD-10641,2026-04-24,Electronics,North,Credit Card,227.37,4,0.0,909.48,16.0,3.0
+ORD-10482,2026-01-11,Clothing,West,Debit Card,60.97,4,,231.69,51.0,
+ORD-10025,2025-07-29,Electronics,East,Debit Card,219.58,4,0.0,878.32,30.0,1.0
+ORD-10679,2025-12-19,electronics,South,PayPal,228.41,3,5.0,650.97,,5.0
+ORD-10321,07/16/2025,Clothing,South,PayPal,65.8,4,30.0,184.24,41.0,2.0
+ORD-10818,2025-09-16, Beauty ,South,Gift Card,19.75,4,5.0,75.05,52.0,4.0
+ORD-10423,2025-10-27,Books,West,Debit Card,29.96,5,15.0,127.33,43.0,5.0
+ORD-10600,2025-10-15,Clothing,West,PayPal,72.97,4,20.0,233.5,34.0,4.0
+ORD-10982,2026-01-18,Clothing,West,Credit Card,28.83,1,0.0,28.83,19.0,1.0
+ORD-10146,2025-08-01,Books,North,Gift Card,19.95,1,10.0,17.95,16.0,4.0
+ORD-10563,2025-12-06,Sports,East,PayPal,41.6,7,20.0,232.96,30.0,4.0
+ORD-10060,2025-06-28,Toys,North,Gift Card,2.0,7,10.0,12.6,,4.0
+ORD-10262,2025-06-30,Toys,South,Gift Card,26.22,5,0.0,131.1,34.0,5.0
+ORD-10635,2026-05-04,Clothing,East,PayPal,56.39,4,15.0,191.73,29.0,2.0
+ORD-10953,2025-09-26,Clothing,South,Debit Card,52.6,3,5.0,149.91,32.0,5.0
+ORD-10013,2026-02-14, Beauty ,East,Credit Card,27.84,4,25.0,83.52,19.0,4.0
+ORD-10936,2025-06-10,Toys,East,Debit Card,29.06,7,0.0,203.42,25.0,
+ORD-10912,2026-01-22,Electronics,East,Debit Card,195.26,1,20.0,156.21,40.0,5.0
+ORD-10805,2026-03-17,Toys,East,PayPal,42.96,6,0.0,257.76,20.0,3.0
+ORD-10357,2026-03-18,Electronics,North,Credit Card,212.08,4,25.0,636.24,21.0,5.0
+ORD-10324,2025-09-14,Sports,,PayPal,33.24,3,10.0,89.75,21.0,4.0
+ORD-10798,02/05/2026,Books,North,Credit Card,18.93,3,20.0,45.43,16.0,1.0
+ORD-10099,12-Mar-2026, Books ,South,Credit Card,14.37,7,0.0,100.59,41.0,4.0
+ORD-10987,2026-05-11,Toys,West,PayPal,29.03,6,15.0,148.05,52.0,5.0
+ORD-10110,09/09/2025,Clothing,South,PayPal,12.58,3,20.0,30.19,30.0,
+ORD-10767,2026-01-23,Electronics,North,Credit Card,220.27,2,0.0,440.54,46.0,5.0
+ORD-10642,2025-11-29,Clothing,South,Gift Card,36.93,7,0.0,258.51,33.0,4.0
+ORD-10871,01/21/2026,Beauty,North,Credit Card,16.81,3,5.0,47.91,19.0,5.0
+ORD-10523,04/15/2026,Sports,West,Gift Card,46.38,4,0.0,185.52,42.0,3.0
+ORD-10664,2025-12-31,Sports,South,Credit Card,70.02,3,0.0,210.06,45.0,4.0
+ORD-10442,2026-01-01,Clothing,North,PayPal,77.12,2,,146.53,49.0,5.0
+ORD-10094,2025-09-08,Clothing,South,Gift Card,1027.1745261720744,5,15.0,4365.49,34.0,4.0
+ORD-10729,2026-04-22, Books ,East,PayPal,18.18,5,0.0,90.9,30.0,4.0
+ORD-10754,2026-01-20,Clothing,South,Gift Card,65.54,2,20.0,104.86,19.0,4.0
+ORD-10108,2025-08-12,Books,West,Gift Card,29.71,4,15.0,101.01,39.0,3.0
+ORD-10344,2025-10-19,Toys,East,Debit Card,57.2,1,20.0,45.76,33.0,4.0
+ORD-10125,2025-08-21,Sports,East,PayPal,49.38,6,5.0,281.47,29.0,4.0
+ORD-10360,2025-09-28,Toys,South,Credit Card,10.08,7,5.0,67.03,53.0,3.0
+ORD-10034,23-Sep-2025,Home & Kitchen,North,Debit Card,55.91,3,10.0,150.96,53.0,2.0
+ORD-10053,2025-08-18,Beauty,West,Debit Card,40.88,2,0.0,81.76,25.0,
+ORD-10140,28-Mar-2026,Books,South,Gift Card,2.0,7,20.0,11.2,26.0,5.0
+ORD-10463,2026-01-13,Clothing,West,Credit Card,29.42,5,0.0,147.1,29.0,5.0
+ORD-10541,2026-01-31,Sports,South,Credit Card,64.38,6,0.0,386.28,46.0,4.0
+ORD-10170,2025-12-27,Books,,Debit Card,4.25,6,0.0,25.5,41.0,3.0
+ORD-10319,2026-01-27,Books,,Gift Card,19.04,2,15.0,32.37,34.0,3.0
+ORD-10669,08/29/2025,Electronics,West,Gift Card,224.96,3,5.0,641.14,16.0,5.0
+ORD-10723,2026-05-03,Electronics,South,PayPal,223.92,4,25.0,671.76,45.0,5.0
+ORD-10597,10-Mar-2026,Sports,East,Credit Card,71.63,5,10.0,322.33,,4.0
+ORD-10649,02/22/2026,Home & Kitchen,South,PayPal,69.67,3,10.0,188.11,25.0,5.0
+ORD-10168,2025-09-10,Electronics,East,Credit Card,213.64,6,25.0,961.38,28.0,3.0
+ORD-10294,06/12/2025,Beauty,East,PayPal,18.66,5,10.0,83.97,50.0,4.0
+ORD-10755,2025-11-10,Home & Kitchen,East,Credit Card,42.92,1,15.0,36.48,54.0,
+ORD-10500,2025-09-12,BOOKS,South,Gift Card,10.78,5,20.0,43.12,44.0,5.0
+ORD-10728,2025-11-05,Clothing,West,Gift Card,42.5,4,5.0,161.5,39.0,4.0
+ORD-10736,2026-03-07,Beauty,North,PayPal,22.26,2,0.0,44.52,48.0,3.0
+ORD-10244,2025-12-03,Toys,West,Gift Card,22.82,2,0.0,45.64,50.0,3.0
+ORD-10853,2026-05-15,CLOTHING,South,Gift Card,39.52,1,30.0,27.66,33.0,5.0
+ORD-10865,2026-01-22,Home & Kitchen,East,Gift Card,56.72,4,0.0,226.88,40.0,5.0
+ORD-10956,02/23/2026,Home & Kitchen,North,Debit Card,44.58,5,10.0,200.61,41.0,5.0
+ORD-10297,14-Sep-2025,Sports,West,Gift Card,58.1,6,0.0,348.6,,2.0
+ORD-10228,04/08/2026,Books,South,Debit Card,26.69,7,20.0,149.46,36.0,5.0
+ORD-10714,2025-06-06,Home & Kitchen,West,Gift Card,35.18,6,0.0,211.08,43.0,4.0
+ORD-10399,2026-04-26,Electronics,North,Debit Card,227.46,2,5.0,432.17,52.0,
+ORD-10492,02/16/2026,Toys,South,Gift Card,13.45,4,0.0,53.8,62.0,3.0
+ORD-10812,2025-07-11,Toys,North,Credit Card,36.63,6,20.0,175.82,56.0,3.0
+ORD-10544,2026-03-16,Clothing,South,Debit Card,63.67,7,15.0,378.84,64.0,
+ORD-10164,2025-09-22,Books,East,Credit Card,21.72,2,25.0,32.58,32.0,5.0
+ORD-10389,2025-10-17,Home & Kitchen,East,Debit Card,64.15,3,0.0,192.45,29.0,3.0
+ORD-10806,28-May-2026,Electronics,South,Credit Card,206.62,2,0.0,413.24,52.0,5.0
+ORD-10336,06/26/2025,Home & Kitchen,North,PayPal,78.75,7,10.0,496.12,28.0,5.0
+ORD-10216,2025-07-01,Books,West,Debit Card,4.35,4,25.0,13.05,53.0,3.0
+ORD-10222,2025-08-08,Toys,North,PayPal,6.9,3,0.0,20.7,49.0,2.0
+ORD-10418,04/17/2026,Beauty,North,Gift Card,14.52,5,20.0,58.08,33.0,4.0
+ORD-10842,02/13/2026,Toys,East,Debit Card,20.16,6,0.0,120.96,40.0,3.0
+ORD-10994,2026-03-11, Electronics ,South,PayPal,226.16,7,0.0,1583.12,42.0,3.0
+ORD-10026,2026-01-29,SPORTS,North,PayPal,55.03,4,15.0,187.1,39.0,4.0
+ORD-10057,2025-09-25,Sports,North,PayPal,52.1,7,10.0,328.23,23.0,3.0
+ORD-10046,12/21/2025,Books,East,Gift Card,38.53,6,10.0,208.06,26.0,5.0
+ORD-10330,2026-02-02,Clothing,East,Debit Card,61.67,4,0.0,246.68,38.0,4.0
+ORD-10979,08/01/2025,Books,East,PayPal,10.07,1,0.0,10.07,41.0,4.0
+ORD-10742,2025-12-31,Electronics,East,Debit Card,210.11,2,15.0,357.19,42.0,3.0
+ORD-10098,2025-07-09,Books,West,Gift Card,23.07,5,,115.35,23.0,
+ORD-10285,2025-11-16,Toys,South,Gift Card,15.66,2,30.0,21.92,38.0,5.0
+ORD-10163,2026-02-25,Books,South,Credit Card,2.0,1,0.0,2.0,43.0,4.0
+ORD-10683,2025-11-28,Electronics,West,Debit Card,228.24,6,5.0,1300.97,39.0,5.0
+ORD-10509,05/31/2026,Sports,South,Credit Card,41.11,4,0.0,164.44,16.0,5.0
+ORD-10884,2025-12-16,Books,North,Debit Card,38.01,3,0.0,114.03,42.0,
+ORD-10788,10/10/2025,Home & Kitchen,North,Gift Card,10.13,3,20.0,24.31,37.0,5.0
+ORD-10043,2026-04-11, Toys ,South,Gift Card,41.34,5,5.0,196.36,16.0,4.0
+ORD-10733,04-May-2026,Beauty,,Credit Card,26.12,1,5.0,24.81,24.0,5.0
+ORD-10305,2025-09-15,SPORTS,North,Gift Card,48.88,1,0.0,48.88,34.0,5.0
+ORD-10063,2025-12-05,Electronics,North,PayPal,216.86,1,0.0,216.86,36.0,5.0
+ORD-10602,2026-04-13,Clothing,North,Debit Card,,5,5.0,207.15,33.0,3.0
+ORD-10553,03/02/2026, Beauty ,North,PayPal,20.54,7,0.0,143.78,48.0,5.0
+ORD-10572,2025-12-13,Beauty,West,Gift Card,22.2,3,5.0,63.27,37.0,5.0
+ORD-10038,2025-08-14,Sports,West,Gift Card,65.41,4,25.0,196.23,43.0,2.0
+ORD-10493,03/05/2026,Clothing,East,Gift Card,50.39,2,5.0,95.74,53.0,2.0
+ORD-10205,26-Nov-2025,Sports,South,Debit Card,25.95,2,30.0,36.33,,4.0
+ORD-10237,06/26/2025,Sports,East,PayPal,34.61,1,0.0,34.61,,3.0
+ORD-10894,2026-03-05,Electronics,West,PayPal,224.97,4,15.0,764.9,17.0,4.0
+ORD-10786,2025-07-23,Books,North,Credit Card,40.54,4,30.0,113.51,47.0,
+ORD-10923,2026-05-07,Beauty,West,Gift Card,8.24,3,20.0,19.78,49.0,5.0
+ORD-10395,2026-05-17,Toys,South,Gift Card,26.16,5,20.0,104.64,40.0,3.0
+ORD-10138,2026-05-03,Electronics,North,Debit Card,200.53,4,25.0,601.59,46.0,
+ORD-10671,2025-12-11,Sports,West,PayPal,76.32,5,20.0,305.28,37.0,4.0
+ORD-10540,29-Oct-2025,Electronics,North,Debit Card,250.43,3,10.0,676.16,32.0,4.0
+ORD-10931,2025-08-04,Clothing,East,Gift Card,37.61,3,0.0,112.83,33.0,5.0
+ORD-10854,11-Jan-2026,Sports,West,Debit Card,41.01,6,0.0,246.06,46.0,3.0
+ORD-10958,2026-04-29,Clothing,North,Gift Card,47.23,1,5.0,44.87,31.0,2.0
+ORD-10935,2026-03-29,Beauty,South,Credit Card,50.69,5,10.0,228.1,37.0,5.0
+ORD-10446,2026-02-22,CLOTHING,East,PayPal,20.77,7,30.0,101.77,34.0,5.0
+ORD-10551,03/03/2026,Electronics,North,Credit Card,241.45,5,0.0,1207.25,35.0,5.0
+ORD-10153,04-Nov-2025,Home & Kitchen,North,Gift Card,35.61,5,0.0,178.05,30.0,3.0
+ORD-10807,2025-07-28,Books,East,PayPal,21.03,7,20.0,117.77,50.0,5.0
+ORD-10308,01/21/2026,Electronics,East,Debit Card,209.31,3,5.0,596.53,44.0,5.0
+ORD-10061,04/29/2026,clothing,East,PayPal,45.25,3,5.0,128.96,28.0,3.0
+ORD-10587,2025-06-12,Toys,North,PayPal,30.86,2,30.0,43.2,42.0,
+ORD-10682,2026-04-19,Books,North,Debit Card,31.78,5,20.0,127.12,30.0,
+ORD-10775,2025-09-11,Sports,East,Debit Card,15.17,1,15.0,12.89,41.0,4.0
+ORD-10557,2025-10-29,Books,South,Credit Card,4.53,2,30.0,6.34,16.0,4.0
+ORD-10962,2026-05-09,sports,West,PayPal,23.84,5,0.0,119.2,34.0,4.0
+ORD-10885,2026-04-06,Electronics,East,Debit Card,222.07,4,0.0,888.28,28.0,4.0
+ORD-10186,2025-07-15,Beauty,South,Debit Card,24.9,5,0.0,124.5,42.0,
+ORD-10277,07/10/2025, Home & Kitchen ,North,Gift Card,51.46,5,0.0,257.3,33.0,1.0
+ORD-10974,2025-06-07,Beauty,West,PayPal,2.0,1,30.0,1.4,32.0,4.0
+ORD-10653,06/15/2025,Clothing,North,Debit Card,32.83,3,0.0,98.49,58.0,4.0
+ORD-10109,07/19/2025,Beauty,South,Gift Card,13.87,6,0.0,83.22,22.0,4.0
+ORD-10963,2025-12-13,Beauty,North,Credit Card,33.73,1,20.0,26.98,44.0,
+ORD-10627,2025-06-24,Clothing,West,Debit Card,35.86,4,0.0,143.44,49.0,4.0
+ORD-10722,02/13/2026,Books,South,Debit Card,28.97,6,0.0,173.82,16.0,4.0
+ORD-10684,2025-08-17,Home & Kitchen,West,Debit Card,70.38,5,10.0,316.71,38.0,4.0
+ORD-10148,2025-06-29,Beauty,West,Credit Card,8.66,7,25.0,45.46,61.0,4.0
+ORD-10717,2025-08-06,Sports,West,Credit Card,61.48,1,30.0,43.04,16.0,4.0
+ORD-10375,08/31/2025,Home & Kitchen,North,Debit Card,65.94,1,0.0,65.94,44.0,5.0
+ORD-10594,03/15/2026,Beauty,East,Credit Card,30.34,3,15.0,77.37,45.0,4.0
+ORD-10204,2025-06-25,Sports,West,Gift Card,29.84,3,5.0,85.04,25.0,5.0
+ORD-10596,2025-10-12,Clothing,East,Gift Card,53.12,3,0.0,159.36,20.0,5.0
+ORD-10171,10-Feb-2026,Clothing,South,PayPal,47.36,7,5.0,314.94,41.0,4.0
+ORD-10128,2025-06-29, Home & Kitchen ,West,Credit Card,56.91,1,0.0,56.91,47.0,5.0
+ORD-10716,2025-12-23, Electronics ,East,Gift Card,222.27,3,20.0,533.45,,2.0
+ORD-10695,2025-12-05,Home & Kitchen,East,Debit Card,76.16,3,10.0,205.63,36.0,4.0
+ORD-10326,10/24/2025, Electronics ,South,Credit Card,225.65,6,0.0,1353.9,23.0,
+ORD-10892,10/30/2025,BEAUTY,West,Debit Card,7.42,6,0.0,44.52,30.0,4.0
+ORD-10396,2025-07-12,Electronics,North,PayPal,215.09,3,5.0,613.01,25.0,3.0
+ORD-10881,2025-10-15,CLOTHING,North,Debit Card,46.71,3,15.0,119.11,34.0,4.0
+ORD-10480,11/16/2025,Sports,South,Debit Card,60.61,4,15.0,206.07,,
+ORD-10701,2026-04-30,Home & Kitchen,West,Credit Card,65.6,108,5.0,6730.56,42.0,4.0
+ORD-10700,2026-02-15,ELECTRONICS,West,Debit Card,201.91,3,25.0,454.3,38.0,4.0
+ORD-10908,03/23/2026,electronics,South,Credit Card,203.57,4,5.0,773.57,31.0,5.0
+ORD-10466,2025-09-09,Sports,East,Credit Card,39.58,5,0.0,197.9,31.0,4.0
+ORD-10799,2025-08-22,Electronics,South,PayPal,201.17,3,0.0,603.51,37.0,4.0
+ORD-10134,2025-09-14,Beauty,West,Gift Card,30.9,3,10.0,83.43,38.0,4.0
+ORD-10318,2025-11-23,Books,West,Gift Card,11.43,2,20.0,18.29,38.0,3.0
+ORD-10660,2025-10-08,ELECTRONICS,South,Credit Card,192.82,2,30.0,269.95,37.0,2.0
+ORD-10259,12/04/2025,Clothing,East,Credit Card,33.76,4,20.0,108.03,37.0,5.0
+ORD-10159,2025-11-19,Home & Kitchen,North,Gift Card,31.58,4,5.0,120.0,41.0,4.0
+ORD-10508,2025-12-22, Sports ,South,Gift Card,47.81,6,10.0,258.17,41.0,4.0
+ORD-10941,2025-11-24,Beauty,North,Debit Card,21.42,6,25.0,96.39,16.0,2.0
+ORD-10569,09/09/2025,Beauty,South,Debit Card,14.67,7,15.0,87.29,33.0,2.0
+ORD-10048,07/19/2025,Electronics,South,Credit Card,227.83,3,10.0,615.14,31.0,5.0
+ORD-10074,2025-08-04,Books,South,Credit Card,29.56,3,0.0,88.68,32.0,5.0
+ORD-10899,2026-01-21,Electronics,North,Credit Card,235.58,7,0.0,1649.06,46.0,4.0
+ORD-10328,2026-04-26,SPORTS,North,Debit Card,40.26,4,15.0,136.88,27.0,5.0
+ORD-10531,2025-10-24,Clothing,South,Debit Card,32.91,6,0.0,197.46,30.0,
+ORD-10511,2025-08-28,Books,West,PayPal,4.52,5,30.0,15.82,31.0,5.0
+ORD-10316,2025-07-09,Electronics,West,Gift Card,247.29,1,20.0,197.83,41.0,4.0
+ORD-10696,2026-04-02,Electronics,North,PayPal,200.32,1,30.0,140.22,32.0,3.0
+ORD-10271,2026-02-16,Sports,South,PayPal,24.2,2,20.0,38.72,40.0,1.0
+ORD-10837,2026-03-13,Books,South,PayPal,2.0,5,0.0,10.0,43.0,2.0
+ORD-10498,2026-04-05,Clothing,South,Gift Card,46.68,3,15.0,119.03,42.0,3.0
+ORD-10232,10-Aug-2025,Toys,South,Credit Card,24.59,4,25.0,73.77,43.0,2.0
+ORD-10054,2025-06-02,Electronics,East,Gift Card,223.05,4,25.0,669.15,56.0,4.0
+ORD-10708,01/29/2026,Sports,West,PayPal,62.7,4,0.0,250.8,32.0,4.0
+ORD-10097,2025-07-17,Toys,,Debit Card,30.23,4,20.0,96.74,40.0,
+ORD-10503,2025-12-17,Sports,North,PayPal,45.68,3,0.0,137.04,25.0,4.0
+ORD-10355,2025-12-03,Electronics,North,Credit Card,212.58,2,0.0,425.16,32.0,5.0
+ORD-10289,06/16/2025,Electronics,East,Debit Card,234.93,6,0.0,1409.58,38.0,5.0
+ORD-10127,2025-10-18,Home & Kitchen,East,PayPal,60.77,6,0.0,364.62,38.0,3.0
+ORD-10526,2025-12-25,Home & Kitchen,East,Debit Card,63.78,5,20.0,255.12,38.0,
+ORD-10419,2026-04-19,Beauty,West,PayPal,11.94,1,0.0,11.94,50.0,3.0
+ORD-10706,2025-10-24,Toys,East,Credit Card,37.85,7,15.0,225.21,,
+ORD-10989,10/23/2025,Home & Kitchen,North,Debit Card,40.48,4,0.0,161.92,24.0,5.0
+ORD-10372,09/02/2025,BEAUTY,West,Gift Card,39.23,2,0.0,78.46,36.0,
+ORD-10377,2025-06-29,Electronics,West,Debit Card,222.79,3,25.0,501.28,25.0,3.0
+ORD-10080,2025-09-15,Sports,North,Credit Card,66.13,5,,330.65,46.0,5.0
+ORD-10158,2026-01-28,Toys,South,Credit Card,62.81,1,0.0,62.81,43.0,4.0
+ORD-10422,2025-08-26, Beauty ,South,Gift Card,49.22,7,25.0,258.4,43.0,3.0
+ORD-10834,23-Dec-2025,Electronics,South,PayPal,240.31,4,25.0,720.93,39.0,3.0
+ORD-10455,2025-09-23,Home & Kitchen,West,Credit Card,59.75,2,15.0,101.58,56.0,5.0
+ORD-10681,05/30/2026,Beauty,East,Gift Card,27.12,5,5.0,128.82,32.0,
+ORD-10668,2025-07-29,Home & Kitchen,North,Gift Card,74.5,7,0.0,521.5,20.0,4.0
+ORD-10459,09-May-2026,Clothing,East,PayPal,29.73,2,20.0,47.57,,4.0
+ORD-10361,2026-04-22,Clothing,North,PayPal,46.16,5,0.0,230.8,43.0,5.0
+ORD-10804,2025-12-06,Sports,North,Gift Card,18.55,7,0.0,129.85,63.0,
+ORD-10693,2025-08-25,Beauty,South,Debit Card,5.85,6,30.0,24.57,29.0,5.0
+ORD-10752,2025-12-16,Clothing,East,PayPal,39.28,1,5.0,37.32,41.0,4.0
+ORD-10384,2025-11-20,TOYS,West,Debit Card,6.38,7,30.0,31.26,33.0,
+ORD-10179,07/22/2025,Sports,South,Credit Card,31.35,2,0.0,62.7,42.0,5.0
+ORD-10973,2025-09-11,Beauty,West,PayPal,34.8,4,20.0,111.36,56.0,5.0
+ORD-10790,09/20/2025,Beauty,South,Credit Card,18.63,6,5.0,106.19,,4.0
+ORD-10718,2025-09-08,Home & Kitchen,West,Credit Card,33.91,4,0.0,135.64,16.0,3.0
+ORD-10122,12/28/2025,Books,West,Credit Card,40.07,3,,84.15,42.0,3.0
+ORD-10945,2025-11-11,Electronics,East,PayPal,230.73,3,0.0,692.19,25.0,4.0
+ORD-10467,2025-06-21,Clothing,East,Credit Card,49.95,7,30.0,244.76,16.0,5.0
+ORD-10968,2026-04-27,electronics,West,Gift Card,221.94,2,15.0,377.3,16.0,4.0
+ORD-10879,2026-03-25,Beauty,East,Credit Card,8.23,1,0.0,8.23,47.0,3.0
+ORD-10870,12-Feb-2026,Electronics,West,Credit Card,207.78,2,10.0,374.0,37.0,4.0
+ORD-10449,2026-05-13,Clothing,East,Gift Card,47.76,1,30.0,33.43,34.0,3.0
+ORD-10403,2026-01-29,Home & Kitchen,West,Gift Card,57.89,2,20.0,92.62,36.0,3.0
+ORD-10991,2025-10-19,Books,South,Debit Card,21.92,7,10.0,138.1,43.0,5.0
+ORD-10431,2025-06-28,Books,East,Debit Card,40.68,3,0.0,122.04,21.0,4.0
+ORD-10435,01/30/2026,Electronics,North,Gift Card,,1,25.0,173.62,41.0,3.0
+ORD-10242,2026-03-26,Sports,North,Debit Card,68.98,5,5.0,327.66,36.0,5.0
+ORD-10256,2025-07-14,Electronics,West,PayPal,209.03,7,0.0,1463.21,16.0,3.0
+ORD-10220,2026-04-29,Electronics,North,Credit Card,223.21,2,10.0,401.78,31.0,5.0
+ORD-10618,09/30/2025,Electronics,,Debit Card,236.63,6,25.0,1064.84,53.0,5.0
+ORD-10015,04/07/2026,home & kitchen,North,PayPal,71.73,7,0.0,502.11,35.0,5.0
+ORD-10253,09/08/2025,Electronics,West,Debit Card,195.0,7,25.0,1023.75,16.0,4.0
+ORD-10445,2025-08-24,Books,East,Credit Card,2.0,4,5.0,7.6,41.0,4.0
+ORD-10737,2026-05-24, Home & Kitchen ,West,Credit Card,52.73,3,15.0,134.46,16.0,3.0
+ORD-10590,2025-06-21,Books,North,Debit Card,4.19,6,15.0,21.37,40.0,1.0
+ORD-10409,2025-07-01,sports,West,Gift Card,42.61,4,0.0,170.44,44.0,4.0
+ORD-10525,2025-12-31,Toys,South,Credit Card,63.29,5,0.0,316.45,38.0,4.0
+ORD-10874,2026-03-15,Sports,West,Debit Card,71.44,2,,135.74,16.0,5.0
+ORD-10852,2026-02-13,Beauty,South,PayPal,42.57,7,15.0,253.29,58.0,
+ORD-10452,02-Sep-2025,Electronics,West,PayPal,209.64,4,15.0,712.78,24.0,5.0
+ORD-10916,04/04/2026,Beauty,West,Credit Card,37.37,5,0.0,186.85,42.0,
+ORD-10998,2025-07-03,Sports,West,Credit Card,49.6,2,5.0,94.24,48.0,3.0
+ORD-10408,2025-11-13,Sports,West,Credit Card,75.16,6,0.0,450.96,37.0,1.0
+ORD-10172,2025-06-20,Clothing,East,PayPal,47.44,7,0.0,332.08,47.0,2.0
+ORD-10689,2025-11-18,Toys,South,PayPal,47.57,6,10.0,256.88,48.0,
+ORD-10147,12/02/2025,Toys,North,Credit Card,39.3,1,0.0,39.3,39.0,5.0
+ORD-10491,2025-09-02,Beauty,North,Debit Card,48.86,4,0.0,195.44,16.0,4.0
+ORD-10362,2026-02-02,Clothing,North,Gift Card,67.7,7,10.0,426.51,26.0,5.0
+ORD-10552,2025-11-05,Beauty,West,PayPal,30.01,6,15.0,153.05,57.0,4.0
+ORD-10051,05/23/2026,Home & Kitchen,North,Credit Card,61.03,4,5.0,231.91,63.0,3.0
+ORD-10825,09/12/2025,Sports,South,Gift Card,57.02,1,15.0,48.47,22.0,3.0
+ORD-10845,02/17/2026,Electronics,North,Debit Card,233.35,1,15.0,198.35,37.0,4.0
+ORD-10022,06/24/2025,Clothing,South,Credit Card,33.92,1,20.0,27.14,36.0,
+ORD-10350,2025-08-18,Toys,South,Debit Card,50.81,5,30.0,177.84,24.0,4.0
+ORD-10632,2025-12-04,Sports,North,Credit Card,65.67,7,15.0,390.74,36.0,5.0
+ORD-10299,11/24/2025,Sports,South,Credit Card,,4,30.0,88.68,44.0,4.0
+ORD-10209,10-Nov-2025,Toys,East,Debit Card,38.82,3,15.0,98.99,28.0,5.0
+ORD-10284,2025-12-05,Clothing,,Debit Card,45.5,6,10.0,245.7,42.0,4.0
+ORD-10142,10/15/2025,Sports,South,Debit Card,59.58,1,25.0,44.68,52.0,4.0
+ORD-10050,2025-11-08,Beauty,West,Debit Card,27.87,6,0.0,167.22,36.0,1.0
+ORD-10166,05/28/2026,Books,,Gift Card,15.72,2,10.0,28.3,26.0,4.0
+ORD-10624,2026-02-28,Home & Kitchen,South,Gift Card,38.67,6,0.0,232.02,20.0,4.0
+ORD-10530,2026-04-01,Sports,West,Debit Card,,3,0.0,169.5,16.0,4.0
+ORD-10081,2025-09-17,Clothing,South,Gift Card,24.47,5,0.0,122.35,39.0,4.0
+ORD-10334,2026-02-01,Beauty,South,Credit Card,9.96,1,25.0,7.47,26.0,4.0
+ORD-10691,2025-12-28,ELECTRONICS,South,Debit Card,217.59,1,20.0,174.07,35.0,5.0
+ORD-10906,2026-01-05,Home & Kitchen,North,Gift Card,52.97,7,0.0,370.79,30.0,5.0
+ORD-10066,2025-09-20,Clothing,South,Debit Card,63.53,2,0.0,127.06,,3.0
+ORD-10347,11/30/2025,Home & Kitchen,South,Gift Card,57.55,7,10.0,362.56,40.0,5.0
+ORD-10659,2026-05-30,Sports,South,Debit Card,41.04,1,15.0,34.88,33.0,3.0
+ORD-10397,2026-03-26,Sports,South,Gift Card,25.65,4,0.0,102.6,20.0,4.0
+ORD-10592,14-Jan-2026,Clothing,East,Debit Card,47.26,3,25.0,106.34,24.0,5.0
+ORD-10283,2025-11-14,SPORTS,South,Credit Card,1226.630959829543,2,20.0,1962.61,38.0,5.0
+ORD-10577,2025-06-11,Toys,West,Gift Card,44.52,4,20.0,142.46,40.0,4.0
+ORD-10942,01/03/2026,BEAUTY,South,Gift Card,26.84,5,15.0,114.07,34.0,5.0
+ORD-10064,2025-07-26,Clothing,North,Debit Card,23.93,7,25.0,125.63,42.0,5.0
+ORD-10650,2026-03-14,Electronics,North,Gift Card,209.39,3,20.0,502.54,27.0,4.0
+ORD-10264,06-Sep-2025,Beauty,West,PayPal,9.07,7,0.0,63.49,29.0,4.0
+ORD-10672,2025-10-01,Clothing,East,Credit Card,71.53,4,25.0,214.59,32.0,4.0
+ORD-10472,06/20/2025,Sports,North,Debit Card,17.83,5,10.0,80.24,35.0,4.0
+ORD-10507,2026-04-28,Sports,East,Credit Card,59.0,117,10.0,6212.7,25.0,
+ORD-10020,2025-06-24,Toys,South,Gift Card,12.67,4,0.0,50.68,48.0,4.0
+ORD-10750,2026-05-29,Toys,East,Credit Card,14.78,2,0.0,29.56,60.0,
+ORD-10966,10/13/2025,Home & Kitchen,South,Debit Card,53.54,7,,374.78,45.0,2.0
+ORD-10699,08-Aug-2025,Beauty,South,Credit Card,9.67,2,0.0,19.34,44.0,4.0
+ORD-10296,2025-10-11,Sports,North,Credit Card,41.96,59,0.0,2475.64,29.0,
+ORD-10609,2026-03-28,Electronics,East,PayPal,209.69,3,5.0,597.62,35.0,4.0
+ORD-10996,2026-01-09,Electronics,South,Debit Card,225.04,3,20.0,540.1,54.0,1.0
+ORD-10261,02/10/2026,Sports,West,Gift Card,62.31,5,0.0,311.55,36.0,3.0
+ORD-10655,2025-11-12,Clothing,West,Debit Card,49.74,6,0.0,298.44,38.0,5.0
+ORD-10499,2025-08-08,TOYS,West,Credit Card,56.17,3,15.0,143.23,40.0,3.0
+ORD-10534,08/29/2025,Beauty,North,Gift Card,23.02,1,30.0,16.11,38.0,2.0
+ORD-10715,2025-12-31,SPORTS,South,PayPal,58.08,5,5.0,275.88,41.0,2.0
+ORD-10656,2025-06-29,Beauty,South,Debit Card,23.54,6,15.0,120.05,51.0,
+ORD-10828,2026-04-20,Home & Kitchen,South,Gift Card,49.76,2,25.0,74.64,22.0,
+ORD-10188,2026-01-20,Home & Kitchen,East,Gift Card,69.28,7,10.0,436.46,52.0,5.0
+ORD-10251,2025-10-24,Clothing,North,PayPal,60.79,5,0.0,303.95,,5.0
+ORD-10071,08/19/2025,books,West,Debit Card,46.56,2,0.0,93.12,56.0,5.0
+ORD-10739,15-Nov-2025,Clothing,South,Credit Card,49.63,5,25.0,186.11,45.0,4.0
+ORD-10603,2026-02-14,Electronics,South,Credit Card,201.74,4,15.0,685.92,34.0,2.0
+ORD-10339,2026-03-05,Electronics,North,Debit Card,206.97,3,0.0,620.91,16.0,5.0
+ORD-10950,04/08/2026,books,North,PayPal,11.75,4,30.0,32.9,42.0,
+ORD-10367,2026-04-25,Sports,West,Debit Card,25.08,5,0.0,125.4,22.0,3.0
+ORD-10625,01/18/2026,Electronics,South,Gift Card,236.58,3,0.0,709.74,29.0,
+ORD-10934,2026-01-25,Electronics,East,Gift Card,223.44,4,0.0,893.76,30.0,5.0
+ORD-10351,07/22/2025,Sports,East,Gift Card,67.2,2,15.0,114.24,44.0,
+ORD-10619,2025-07-01,Beauty,North,Credit Card,33.95,4,30.0,95.06,26.0,
+ORD-10785,2026-05-25,Home & Kitchen,North,Debit Card,52.51,2,10.0,94.52,35.0,3.0
+ORD-10897,2025-06-08,Clothing,West,Gift Card,30.29,2,0.0,60.58,40.0,4.0
+ORD-10876,2026-02-28,Beauty,West,PayPal,29.88,6,15.0,152.39,35.0,3.0
+ORD-10814,2025-11-20,Toys,,Gift Card,35.71,2,30.0,49.99,44.0,1.0
+ORD-10447,2025-08-08,Books,North,Gift Card,2.0,4,30.0,5.6,19.0,5.0
+ORD-10680,2025-12-08,books,West,Gift Card,2.0,3,25.0,4.5,44.0,4.0
+ORD-10567,2026-04-22,Toys,South,Credit Card,50.19,7,25.0,263.5,42.0,5.0
+ORD-10780,2026-01-12,Toys,East,Credit Card,23.79,5,0.0,118.95,28.0,4.0
+ORD-10489,2026-03-18,Books,West,Gift Card,17.47,1,10.0,15.72,42.0,2.0
+ORD-10839,2026-02-14,Electronics,West,Debit Card,216.07,7,5.0,1436.87,50.0,5.0
+ORD-10218,2025-10-08,Electronics,West,Debit Card,197.11,6,25.0,887.0,48.0,4.0
+ORD-10239,10/04/2025,home & kitchen,South,Debit Card,66.66,5,5.0,316.63,36.0,5.0
+ORD-10903,2025-07-08,Books,West,Credit Card,3.01,3,15.0,7.68,29.0,4.0
+ORD-10528,04/26/2026,Books,East,PayPal,9.96,4,15.0,33.86,22.0,4.0
+ORD-10192,2025-08-06,Books,South,PayPal,4.56,4,0.0,18.24,36.0,4.0
+ORD-10484,2026-04-03,Books,West,Credit Card,2.0,6,25.0,9.0,29.0,2.0
+ORD-10191,2025-10-04,BEAUTY,South,PayPal,5.96,2,15.0,10.13,45.0,5.0
+ORD-10514,01/02/2026,Beauty,West,Credit Card,2.0,5,0.0,10.0,18.0,
+ORD-10365,2025-12-27,beauty,North,Gift Card,50.52,3,25.0,113.67,29.0,3.0
+ORD-10869,11/02/2025,Electronics,South,Credit Card,206.6,6,10.0,1115.64,38.0,
+ORD-10132,21-May-2026,Electronics,West,Credit Card,225.08,3,0.0,675.24,22.0,5.0
+ORD-10426,2026-03-10,Electronics,West,Credit Card,198.99,6,30.0,835.76,58.0,1.0
+ORD-10252,2025-08-24,Home & Kitchen,West,Debit Card,917.677707150344,6,30.0,3854.25,24.0,1.0
+ORD-10674,17-Oct-2025,BOOKS,East,Gift Card,2.0,4,0.0,8.0,37.0,2.0
+ORD-10515,2026-03-30,Sports,South,Debit Card,71.19,7,0.0,498.33,32.0,3.0
+ORD-10263,19-Feb-2026,Books,North,PayPal,32.0,3,0.0,96.0,22.0,5.0
+ORD-10070,01/03/2026,Sports,East,PayPal,44.44,7,0.0,311.08,46.0,2.0
+ORD-10272,2026-04-27,Clothing,West,Debit Card,36.02,5,25.0,135.08,55.0,4.0
+ORD-10969,11-Jan-2026,Books,East,PayPal,10.48,1,15.0,8.91,29.0,3.0
+ORD-10327,2025-08-11,Sports,West,Gift Card,62.15,2,20.0,99.44,40.0,5.0
+ORD-10115,2025-07-29,Beauty,West,Gift Card,35.15,3,0.0,105.45,45.0,2.0
+ORD-10323,2025-11-13,Books,North,Credit Card,10.8,6,20.0,51.84,26.0,3.0
+ORD-10964,2026-04-04,Toys,South,Credit Card,29.01,7,0.0,203.07,22.0,
+ORD-10666,13-Nov-2025,Beauty,South,PayPal,41.07,6,20.0,197.14,43.0,4.0
+ORD-10453,11/21/2025,Electronics,North,Debit Card,220.06,6,30.0,924.25,40.0,
+ORD-10913,02/28/2026,Home & Kitchen,East,PayPal,60.15,2,20.0,96.24,45.0,3.0
+ORD-10623,2026-01-10,Sports,West,Debit Card,49.21,5,15.0,209.14,39.0,4.0
+ORD-10777,11/22/2025,Home & Kitchen,East,PayPal,84.62,6,0.0,507.72,25.0,5.0
+ORD-10873,2025-07-10,Beauty,West,Gift Card,17.69,3,10.0,47.76,31.0,4.0
+ORD-10454,11/12/2025,Electronics,North,Credit Card,231.9,3,0.0,695.7,46.0,2.0
+ORD-10564,2025-06-17,Clothing,South,Debit Card,42.09,1,25.0,31.57,,4.0
+ORD-10898,2026-03-22,Books,East,PayPal,29.87,1,30.0,20.91,50.0,
+ORD-10769,09/08/2025,Books,South,PayPal,26.72,1,0.0,26.72,19.0,4.0
+ORD-10278,2025-06-26,Home & Kitchen,East,Gift Card,68.53,4,0.0,274.12,30.0,4.0
+ORD-10789,2026-05-30,Beauty,South,Credit Card,2.97,3,20.0,7.13,44.0,3.0
+ORD-10651,09/08/2025,Books,West,PayPal,16.88,6,25.0,75.96,60.0,4.0
+ORD-10002,2026-03-20,Beauty,East,PayPal,26.18,6,30.0,109.96,52.0,3.0
+ORD-10229,18-Nov-2025,Toys,North,Credit Card,25.64,7,0.0,179.48,42.0,5.0
+ORD-10580,02/08/2026,Sports,South,Credit Card,54.03,1,0.0,54.03,56.0,5.0
+ORD-10929,29-Sep-2025,BEAUTY,North,Credit Card,38.86,3,25.0,87.44,48.0,5.0
+ORD-10510,2025-07-09,Beauty,North,Debit Card,13.95,1,0.0,13.95,45.0,3.0
+ORD-10859,2025-12-17,Clothing,South,Debit Card,58.3,1,30.0,40.81,30.0,
+ORD-10199,2026-02-08,beauty,South,PayPal,,1,30.0,12.39,39.0,4.0
+ORD-10371,09/29/2025,Toys,North,PayPal,,7,25.0,147.42,32.0,4.0
+ORD-10861,2026-02-01,Sports,South,Debit Card,50.03,6,30.0,210.13,44.0,4.0
+ORD-10518,11/25/2025,Home & Kitchen,North,Debit Card,76.29,4,25.0,228.87,16.0,4.0
+ORD-10065,2025-07-05,Beauty,West,Gift Card,3.75,5,20.0,15.0,55.0,4.0
+ORD-10471,2026-05-15,Beauty,South,Credit Card,2.0,6,0.0,12.0,43.0,5.0
+ORD-10040,03/24/2026, Toys ,East,PayPal,27.61,6,30.0,115.96,28.0,5.0
+ORD-10900,11/10/2025,Home & Kitchen,South,Gift Card,43.68,1,30.0,30.58,16.0,3.0
+ORD-10685,2025-08-14, Electronics ,South,Credit Card,243.96,1,20.0,195.17,44.0,4.0
+ORD-10667,06-Mar-2026,Electronics,North,Gift Card,250.3,7,0.0,1752.1,42.0,1.0
+ORD-10591,2025-11-25,Clothing,North,Credit Card,52.93,5,0.0,264.65,42.0,5.0
+ORD-10948,2026-01-04,Sports,,Gift Card,78.64,4,0.0,314.56,27.0,4.0
+ORD-10565,2025-06-19,Home & Kitchen,North,Credit Card,50.05,4,30.0,140.14,47.0,4.0
+ORD-10273,2025-12-24, Toys ,East,Debit Card,33.43,5,0.0,167.15,20.0,5.0
+ORD-10917,07-Jan-2026,Books,North,Gift Card,27.24,7,25.0,143.01,32.0,5.0
+ORD-10630,2026-05-13,Beauty,North,Gift Card,2.11,3,20.0,5.06,34.0,
+ORD-10850,2026-02-13,Sports,West,PayPal,79.09,6,30.0,332.18,31.0,3.0
+ORD-10760,12/27/2025,Beauty,East,Debit Card,2.0,3,,5.4,55.0,3.0
+ORD-10177,2026-05-19,books,South,Gift Card,23.58,4,0.0,94.32,28.0,4.0
+ORD-10300,2026-03-09,Home & Kitchen,East,PayPal,75.87,6,15.0,386.94,16.0,4.0
+ORD-10037,2026-04-21,SPORTS,West,Debit Card,42.68,3,0.0,128.04,17.0,5.0
+ORD-10487,07/18/2025,Electronics,West,Credit Card,232.7,4,0.0,930.8,47.0,
+ORD-10202,2025-06-03,Beauty,West,Gift Card,13.63,3,0.0,40.89,52.0,4.0
+ORD-10236,2025-06-03,clothing,,Credit Card,36.74,3,0.0,110.22,,5.0
+ORD-10149,2025-09-22, Home & Kitchen ,,Gift Card,57.66,2,5.0,109.55,27.0,4.0
+ORD-10217,07/17/2025,Toys,South,Credit Card,21.03,7,5.0,139.85,51.0,3.0
+ORD-10676,2026-03-01,Toys,West,Credit Card,40.55,6,0.0,243.3,39.0,
+ORD-10732,10-Mar-2026,Clothing,South,Credit Card,49.33,6,30.0,207.19,28.0,4.0
+ORD-10662,2026-02-26,Beauty,North,PayPal,6.98,1,0.0,6.98,49.0,4.0
+ORD-10611,2026-01-23,home & kitchen,South,Gift Card,57.65,3,0.0,172.95,39.0,5.0
+ORD-10407,2026-04-18,Electronics,South,Credit Card,213.41,6,15.0,1088.39,27.0,4.0
+ORD-10302,06/22/2025,Home & Kitchen,West,Gift Card,69.5,4,25.0,208.5,16.0,2.0
+ORD-10858,2025-11-30,Sports,West,Gift Card,50.32,5,20.0,201.28,44.0,4.0
+ORD-10918,09-Jun-2025,Toys,East,Debit Card,42.98,5,0.0,214.9,48.0,
+ORD-10822,05/01/2026,Toys,South,Debit Card,31.74,7,15.0,188.85,26.0,5.0
+ORD-10925,2026-02-21,Home & Kitchen,North,Credit Card,36.7,2,0.0,73.4,51.0,1.0
+ORD-10388,22-May-2026,Beauty,West,Credit Card,21.78,4,5.0,82.76,34.0,3.0
+ORD-10417,31-Mar-2026,Electronics,West,Credit Card,228.52,1,15.0,194.24,16.0,3.0
+ORD-10387,2025-09-07, Toys ,South,Credit Card,6.95,4,0.0,27.8,35.0,4.0
+ORD-10929,29-Sep-2025,BEAUTY,North,Credit Card,38.86,3,25.0,87.44,48.0,5.0
+ORD-10390,2026-04-10,Toys,North,Gift Card,54.96,2,10.0,98.93,42.0,4.0
+ORD-10613,2025-09-29,Sports,East,Gift Card,50.47,3,0.0,151.41,33.0,4.0
+ORD-10352,02/24/2026,TOYS,South,Credit Card,12.22,3,30.0,25.66,52.0,5.0
+ORD-10193,2025-06-30,Home & Kitchen,North,Debit Card,43.74,1,10.0,39.37,42.0,5.0
+ORD-10235,2026-04-19,Home & Kitchen,West,Debit Card,40.12,6,15.0,204.61,22.0,3.0
+ORD-10437,17-Jan-2026,Books,West,Gift Card,19.27,4,0.0,77.08,28.0,5.0
+ORD-10836,2026-05-05,Toys,South,Credit Card,27.87,3,20.0,66.89,44.0,4.0
+ORD-10055,2025-10-10,BOOKS,North,PayPal,10.73,5,10.0,48.28,60.0,4.0
+ORD-10465,2026-05-25, Beauty ,East,Gift Card,27.47,4,20.0,87.9,53.0,4.0
+ORD-10096,09/11/2025,Sports,West,PayPal,48.84,4,30.0,136.75,42.0,
+ORD-10141,2026-05-28,Electronics,South,Credit Card,232.73,6,,1396.38,35.0,5.0
+ORD-10813,2026-03-31,Beauty,West,Gift Card,18.54,3,0.0,55.62,45.0,4.0
+ORD-10862,05/19/2026,BEAUTY,West,Gift Card,25.85,5,30.0,90.48,16.0,4.0
+ORD-10907,2026-05-14,Home & Kitchen,North,PayPal,42.68,4,0.0,170.72,40.0,4.0
+ORD-10570,2025-07-04,Toys,West,Gift Card,11.19,7,0.0,78.33,46.0,5.0
+ORD-10120,2026-01-29,Electronics,West,Credit Card,208.85,1,5.0,198.41,26.0,4.0
+ORD-10833,2025-10-01,Books,West,Gift Card,20.63,6,30.0,86.65,32.0,5.0
+ORD-10872,2026-03-16,Sports,North,Gift Card,68.32,7,15.0,406.5,27.0,4.0
+ORD-10062,2025-06-01,Clothing,West,Gift Card,23.38,7,0.0,163.66,37.0,5.0
+ORD-10771,2026-04-01,Beauty,West,Gift Card,24.63,3,10.0,66.5,64.0,4.0
+ORD-10451,11/08/2025,Clothing,East,Credit Card,18.4,4,0.0,73.6,44.0,
+ORD-10414,2026-04-30,Toys,South,Credit Card,42.11,2,15.0,71.59,46.0,3.0
+ORD-10003,2025-09-11,Books,North,Gift Card,15.35,3,0.0,46.05,55.0,5.0
+ORD-10058,11/11/2025,Electronics,East,PayPal,226.12,3,,644.44,63.0,1.0
+ORD-10223,2025-07-28,Electronics,North,Gift Card,249.75,3,5.0,711.79,35.0,5.0
+ORD-10616,03/29/2026,Sports,East,Gift Card,67.34,4,0.0,269.36,37.0,5.0
+ORD-10101,2025-08-29,Books,North,Credit Card,18.24,2,15.0,31.01,30.0,
+ORD-10720,23-Jan-2026,Sports,South,Credit Card,37.89,6,30.0,159.14,51.0,4.0
+ORD-10221,2025-09-18,HOME & KITCHEN,South,Credit Card,57.16,3,30.0,120.04,42.0,5.0
+ORD-10513,2026-02-09,Toys,East,PayPal,36.68,6,0.0,220.08,29.0,2.0
+ORD-10004,2025-06-24,Home & Kitchen,North,Gift Card,35.21,2,20.0,56.34,34.0,4.0
+ORD-10052,2025-11-23,Books,North,Debit Card,2.0,5,0.0,10.0,16.0,3.0
+ORD-10017,02-Jan-2026,Beauty,North,Gift Card,33.39,7,0.0,233.73,32.0,2.0
+ORD-10744,2025-06-24,Clothing,West,PayPal,19.05,7,20.0,106.68,16.0,2.0
+ORD-10910,2026-05-18,ELECTRONICS,South,Debit Card,219.17,7,25.0,1150.64,30.0,5.0
+ORD-10306,2026-03-06,Books,West,Credit Card,21.81,7,0.0,152.67,25.0,3.0
+ORD-10663,2026-01-30,Electronics,South,Gift Card,230.38,3,0.0,691.14,38.0,5.0
+ORD-10155,15-May-2026,Home & Kitchen,West,PayPal,63.37,4,10.0,228.13,30.0,4.0
+ORD-10478,2025-09-29,Books,West,Credit Card,2.0,6,0.0,12.0,31.0,3.0
+ORD-10677,07/20/2025,Beauty,East,PayPal,27.39,6,20.0,131.47,29.0,3.0
+ORD-10761,23-Dec-2025,Toys,East,Credit Card,27.75,4,0.0,111.0,34.0,2.0
+ORD-10248,2025-06-11,SPORTS,North,Gift Card,35.72,5,30.0,125.02,31.0,3.0
+ORD-10249,2026-05-25,Toys,East,Credit Card,36.34,7,30.0,178.07,45.0,
+ORD-10358,2026-01-16,Beauty,North,Gift Card,17.39,1,0.0,17.39,26.0,5.0
+ORD-10473,02/10/2026,Electronics,North,Debit Card,227.99,2,0.0,455.98,23.0,3.0
+ORD-10430,2026-05-22,Beauty,West,Credit Card,27.32,3,10.0,73.76,54.0,4.0
+ORD-10441,2025-12-31,Toys,West,Credit Card,39.62,1,30.0,27.73,45.0,4.0
+ORD-10889,19-Apr-2026,clothing,East,PayPal,47.94,1,0.0,47.94,63.0,
+ORD-10848,2026-01-07,Clothing,South,Debit Card,44.33,4,0.0,177.32,29.0,4.0
+ORD-10030,2026-02-22, Sports ,South,Credit Card,64.33,5,0.0,321.65,42.0,4.0
+ORD-10281,2025-08-22,Toys,North,PayPal,41.89,7,15.0,249.25,63.0,4.0
+ORD-10675,2026-01-15,Books,South,Credit Card,6.7,2,15.0,11.39,52.0,5.0
+ORD-10967,22-Jun-2025,Electronics,West,PayPal,217.81,6,30.0,914.8,46.0,
+ORD-10117,2025-09-07,Beauty,West,Credit Card,10.96,4,15.0,37.26,20.0,4.0
+ORD-10658,2025-09-15,Beauty,South,PayPal,43.22,6,20.0,207.46,37.0,5.0
+ORD-10116,2026-05-19,Electronics,North,Debit Card,185.9,1,10.0,167.31,66.0,3.0
+ORD-10856,01/12/2026,Clothing,East,Debit Card,81.15,4,10.0,292.14,47.0,5.0
+ORD-10990,2025-10-08,Home & Kitchen,West,Gift Card,67.27,1,10.0,60.54,48.0,4.0
+ORD-10291,2025-10-13,Sports,East,Gift Card,48.89,3,30.0,102.67,54.0,4.0
+ORD-10027,12/24/2025,Clothing,South,Debit Card,30.79,3,0.0,92.37,39.0,5.0
+ORD-10381,2026-03-24,Toys,South,PayPal,48.72,4,0.0,194.88,45.0,5.0
+ORD-10307,2026-05-19,Sports,West,PayPal,41.98,3,20.0,100.75,24.0,5.0
+ORD-10505,2025-12-29,Electronics,East,Gift Card,197.09,7,10.0,1241.67,,4.0
+ORD-10595,2026-03-24,SPORTS,South,PayPal,53.27,4,0.0,213.08,30.0,1.0
+ORD-10200,03/13/2026,Toys,South,Credit Card,18.06,3,30.0,37.93,39.0,5.0
+ORD-10571,2025-08-23,Sports,South,PayPal,27.94,6,0.0,167.64,72.0,4.0
+ORD-10385,25-Dec-2025,Toys,West,PayPal,43.89,2,0.0,87.78,29.0,4.0
+ORD-10713,2026-01-12, Beauty ,North,PayPal,20.31,1,0.0,20.31,37.0,5.0
+ORD-10705,10/27/2025,Sports,North,PayPal,57.11,5,30.0,199.88,32.0,5.0
+ORD-10905,2026-04-06,Toys,South,Debit Card,11.23,6,0.0,67.38,40.0,4.0
+ORD-10796,2026-05-30,Sports,South,Gift Card,42.63,3,30.0,89.52,22.0,5.0
+ORD-10826,2025-08-13,Beauty,East,Gift Card,32.8,7,5.0,218.12,26.0,4.0
+ORD-10314,2025-10-22,Sports,West,PayPal,52.9,1,0.0,52.9,45.0,
+ORD-10783,2025-08-31,Clothing,South,Debit Card,47.05,3,25.0,105.86,27.0,5.0
+ORD-10280,2025-12-07,Books,South,Debit Card,2.0,6,20.0,9.6,39.0,4.0
+ORD-10951,2026-05-26,Clothing,South,Debit Card,57.89,3,0.0,173.67,28.0,2.0
+ORD-10757,2025-09-01,Clothing,North,Debit Card,49.98,5,0.0,249.9,44.0,4.0
+ORD-10353,01/12/2026,Home & Kitchen,West,Credit Card,67.81,4,0.0,271.24,44.0,3.0
+ORD-10644,08/25/2025,Clothing,West,Credit Card,26.47,7,10.0,166.76,31.0,2.0
+ORD-10207,2026-01-17,Sports,East,Gift Card,52.26,1,0.0,52.26,53.0,
+ORD-10379,12-Jun-2025,Home & Kitchen,North,Gift Card,47.81,1,30.0,33.47,36.0,4.0
+ORD-10765,2025-09-14, Toys ,South,Credit Card,14.05,5,20.0,56.2,49.0,5.0
+ORD-10412,2025-06-29,Toys,South,PayPal,53.52,1,0.0,53.52,40.0,5.0
+ORD-10793,2025-11-03,Toys,East,PayPal,45.82,4,10.0,164.95,49.0,4.0
+ORD-10023,2025-06-28,Sports,West,PayPal,63.35,3,10.0,171.04,34.0,
+ORD-10340,2025-07-21,Home & Kitchen,South,Gift Card,49.72,2,0.0,99.44,33.0,5.0
+ORD-10694,2025-10-27,Home & Kitchen,West,PayPal,76.69,4,30.0,214.73,19.0,3.0
+ORD-10731,2026-02-17,Books,East,Credit Card,29.94,7,0.0,209.58,16.0,5.0
+ORD-10154,2026-05-01,Electronics,South,Gift Card,212.05,7,30.0,1039.04,45.0,4.0
+ORD-10860,2026-05-23,Sports,West,Credit Card,40.24,3,5.0,114.68,18.0,4.0
+ORD-10556,2025-08-16,Books,West,PayPal,12.23,6,30.0,51.37,24.0,3.0
+ORD-10938,2025-12-12,Toys,North,Gift Card,41.71,6,15.0,212.72,40.0,5.0
+ORD-10746,2026-03-01, Electronics ,West,Gift Card,194.47,2,5.0,369.49,38.0,5.0
+ORD-10921,22-Dec-2025,Beauty,North,Debit Card,,3,25.0,79.85,26.0,3.0
+ORD-10322,2025-07-20,Home & Kitchen,East,Credit Card,45.05,7,0.0,315.35,26.0,5.0
+ORD-10542,2026-02-25,Beauty,South,Debit Card,8.55,6,0.0,51.3,32.0,3.0
+ORD-10601,2025-08-31,Home & Kitchen,West,Gift Card,76.65,4,0.0,306.6,16.0,2.0
+ORD-10585,01/13/2026,Sports,,Credit Card,59.36,1,15.0,50.46,41.0,1.0
+ORD-10568,2025-09-28,Electronics,North,PayPal,203.83,3,30.0,428.04,49.0,2.0
+ORD-10262,2025-06-30,Toys,South,Gift Card,26.22,5,0.0,131.1,34.0,5.0
+ORD-10457,2025-07-01,BOOKS,West,Gift Card,9.36,1,5.0,8.89,47.0,3.0
+ORD-10082,2026-05-23,toys,East,Gift Card,53.22,5,15.0,226.18,37.0,5.0
+ORD-10582,19-Aug-2025,Clothing,East,Credit Card,65.95,2,0.0,131.9,50.0,4.0
+ORD-10464,02-Jun-2025,Electronics,East,Credit Card,222.04,4,15.0,754.94,43.0,5.0
+ORD-10961,2026-01-21,Toys,,Gift Card,61.21,5,15.0,260.14,35.0,
+ORD-10333,2025-10-28,Sports,South,PayPal,40.4,2,0.0,80.8,48.0,5.0
+ORD-10010,2025-09-24,Books,West,PayPal,47.81,115,30.0,3848.7,,
+ORD-10470,2026-05-07,Sports,East,Gift Card,51.49,6,15.0,262.6,44.0,
+ORD-10032,05/01/2026,Electronics,East,PayPal,207.12,1,15.0,176.05,44.0,
+ORD-10875,12/14/2025,Beauty,East,Debit Card,15.78,4,30.0,44.18,39.0,5.0
+ORD-10877,2026-02-19,Toys,South,Debit Card,23.31,5,0.0,116.55,18.0,5.0
+ORD-10382,2025-10-08,Books,West,Gift Card,32.85,5,5.0,156.04,29.0,5.0
+ORD-10952,2025-07-26,Clothing,South,PayPal,,5,20.0,208.0,39.0,4.0
+ORD-10992,2025-09-01,Clothing,East,PayPal,33.12,3,10.0,89.42,39.0,4.0
+ORD-10901,2025-07-19,Beauty,South,Gift Card,5.81,5,0.0,29.05,63.0,
+ORD-10909,04-Jul-2025,Beauty,North,PayPal,29.48,3,0.0,88.44,33.0,4.0
+ORD-10378,12/27/2025,Sports,East,PayPal,52.96,4,0.0,211.84,34.0,1.0
+ORD-10089,2025-11-28,Books,South,PayPal,,7,10.0,105.78,39.0,4.0
+ORD-10213,03/24/2026,Books,East,Debit Card,2.0,4,20.0,6.4,36.0,4.0
+ORD-10838,06/22/2025,books,West,Gift Card,4.28,2,30.0,5.99,33.0,4.0
+ORD-10133,05/03/2026,Home & Kitchen,,Credit Card,45.09,5,25.0,169.09,33.0,4.0
+ORD-10346,2026-01-19,Sports,South,Credit Card,43.52,5,25.0,163.2,37.0,4.0
+ORD-10007,2025-12-26,Books,North,Credit Card,20.03,1,5.0,19.03,37.0,3.0
+ORD-10507,2026-04-28,Sports,East,Credit Card,59.0,117,10.0,6212.7,25.0,
+ORD-10320,10/12/2025,Toys,East,Gift Card,33.65,5,30.0,117.78,36.0,5.0
+ORD-10781,2025-06-07,Books,East,Gift Card,27.09,3,0.0,81.27,,5.0
+ORD-10187,2025-10-15,Books,West,Credit Card,38.43,7,20.0,215.21,42.0,3.0
+ORD-10304,11/08/2025,Home & Kitchen,West,Gift Card,531.3940857969287,4,30.0,1487.9,36.0,5.0
+ORD-10031,2025-12-10,electronics,North,Debit Card,204.51,5,20.0,818.04,37.0,5.0
+ORD-10610,2026-01-12,Sports,East,Gift Card,62.76,6,0.0,376.56,48.0,1.0
+ORD-10240,2025-07-23,Toys,North,Debit Card,30.17,1,25.0,22.63,77.0,3.0
+ORD-10725,2026-01-08,Beauty,East,Credit Card,36.99,3,20.0,88.78,25.0,4.0
+ORD-10174,2025-09-20,Beauty,West,Credit Card,33.23,1,0.0,33.23,43.0,4.0
+ORD-10245,2026-04-01, Electronics ,North,PayPal,234.37,4,0.0,937.48,58.0,4.0
+ORD-10056,03/03/2026,Clothing,West,Gift Card,38.43,2,5.0,73.02,37.0,4.0
+ORD-10749,04/09/2026,Books,South,PayPal,30.78,1,0.0,30.78,44.0,4.0
+ORD-10145,06/09/2025,books,West,Gift Card,2.0,3,0.0,6.0,42.0,5.0
+ORD-10090,16-Nov-2025,Clothing,North,PayPal,22.12,5,10.0,99.54,41.0,5.0
+ORD-10392,2025-06-29,Home & Kitchen,West,Debit Card,47.03,2,20.0,75.25,40.0,4.0
+ORD-10310,2026-01-28,books,North,Debit Card,,6,25.0,63.45,42.0,
+ORD-10359,10/09/2025,Clothing,South,Debit Card,19.97,6,25.0,89.86,33.0,2.0
+ORD-10093,21-Jun-2025,Clothing,,Credit Card,5.42,-2,0.0,10.84,49.0,1.0
+ORD-10734,2026-05-10,Home & Kitchen,South,Credit Card,77.89,3,0.0,233.67,35.0,5.0
+ORD-10748,2026-04-28,Toys,West,Debit Card,20.81,6,5.0,118.62,22.0,5.0
+ORD-10376,08/02/2025,Electronics,West,Credit Card,218.75,1,15.0,185.94,54.0,5.0
+ORD-10243,2025-12-05,Electronics,South,PayPal,214.47,5,5.0,1018.73,37.0,4.0
+ORD-10821,2025-09-27,Beauty,West,Debit Card,,5,20.0,171.72,40.0,5.0
+ORD-10087,03/19/2026,Toys,West,PayPal,8.81,6,20.0,42.29,,4.0
+ORD-10214,2025-11-19,Sports,South,PayPal,70.68,4,0.0,282.72,44.0,3.0
+ORD-10977,2026-01-17,Home & Kitchen,South,PayPal,66.5,6,5.0,379.05,42.0,2.0
+ORD-10173,2025-07-28,Sports,South,Debit Card,50.62,1,30.0,35.43,33.0,5.0
+ORD-10425,2026-04-17,Sports,South,PayPal,56.79,5,25.0,212.96,36.0,3.0
+ORD-10773,2026-03-13,Sports,East,Credit Card,44.09,2,0.0,88.18,37.0,
+ORD-10118,05/25/2026,Books,West,Credit Card,9.06,-7,30.0,44.39,53.0,4.0
+ORD-10119,2025-06-02,Beauty,West,Debit Card,22.31,4,0.0,89.24,52.0,5.0
+ORD-10709,2026-01-27,Home & Kitchen,North,Gift Card,67.5,3,0.0,202.5,42.0,1.0
+ORD-10000,21-Dec-2025,Books,South,Credit Card,2.0,4,0.0,8.0,,4.0
+ORD-10394,12-Apr-2026,Beauty,South,Gift Card,25.66,3,5.0,73.13,21.0,5.0
+ORD-10401,2025-11-07,SPORTS,West,Gift Card,56.31,1,30.0,39.42,41.0,4.0
+ORD-10404,2026-02-13, Sports ,North,PayPal,54.75,1,,46.54,42.0,3.0
+ORD-10614,2025-11-29, Clothing ,North,Debit Card,48.33,5,20.0,193.32,25.0,4.0
+ORD-10621,03/12/2026,HOME & KITCHEN,North,Debit Card,43.52,7,20.0,243.71,31.0,2.0
+ORD-10162,2025-08-14,Clothing,North,PayPal,,7,0.0,293.93,,5.0
+ORD-10114,24-Jan-2026,Sports,West,Debit Card,60.05,3,0.0,180.15,51.0,4.0
+ORD-10150,10/21/2025,Sports,South,PayPal,50.57,3,5.0,144.12,28.0,
+ORD-10586,2025-06-16,ELECTRONICS,North,Credit Card,202.84,1,5.0,192.7,27.0,
+ORD-10578,05/13/2026,Sports,East,Debit Card,46.87,6,30.0,196.85,26.0,5.0
+ORD-10724,2025-10-13,books,South,Gift Card,19.98,1,30.0,13.99,41.0,
+ORD-10368,10/11/2025,Electronics,West,Debit Card,207.57,4,20.0,664.22,57.0,4.0
+ORD-10543,18-Aug-2025, Electronics ,West,PayPal,232.57,6,10.0,1255.88,37.0,4.0
+ORD-10477,2025-06-25,Home & Kitchen,West,Debit Card,75.08,4,20.0,240.26,45.0,5.0
+ORD-10532,02/18/2026,Books,East,Gift Card,7.91,7,30.0,38.76,32.0,4.0
+ORD-10983,2026-01-19,Toys,East,Gift Card,20.45,1,0.0,20.45,46.0,2.0
+ORD-10712,2025-09-03,Beauty,West,Debit Card,8.45,2,0.0,16.9,33.0,
+ORD-10954,2026-02-08,Toys,South,Debit Card,32.66,5,20.0,130.64,17.0,5.0
+ORD-10258,2025-11-28,Electronics,North,Gift Card,204.55,4,30.0,572.74,48.0,5.0
+ORD-10843,2025-12-21,HOME & KITCHEN,West,Gift Card,49.01,1,15.0,41.66,34.0,2.0
+ORD-10135,2025-07-02,Clothing,North,PayPal,66.19,2,25.0,99.28,39.0,
+ORD-10922,2025-12-03,Books,West,Credit Card,24.53,2,30.0,34.34,51.0,3.0
+ORD-10817,2025-08-17,Beauty,North,PayPal,,6,30.0,133.06,35.0,5.0
+ORD-10795,2026-04-19,Sports,South,Debit Card,20.54,5,25.0,77.02,32.0,
+ORD-10501,2026-02-01,Toys,North,Credit Card,36.37,4,30.0,101.84,55.0,5.0
+ORD-10538,01/13/2026,Books,West,PayPal,14.31,1,15.0,12.16,37.0,3.0
+ORD-10652,2025-08-26,Sports,North,Gift Card,67.42,2,15.0,114.61,29.0,4.0
+ORD-10581,2026-01-08,Clothing,South,Debit Card,67.7,7,0.0,473.9,43.0,1.0
+ORD-10343,2025-08-28,Sports,South,Credit Card,63.98,3,30.0,134.36,24.0,4.0
+ORD-10673,2025-10-14,Electronics,East,Debit Card,212.62,1,15.0,180.73,41.0,
+ORD-10620,04/11/2026,Home & Kitchen,West,Debit Card,73.9,4,20.0,236.48,45.0,5.0
+ORD-10293,2026-05-18,Toys,North,Gift Card,43.86,2,25.0,65.79,31.0,4.0
+ORD-10364,2026-04-19,Home & Kitchen,South,Credit Card,50.36,1,20.0,40.29,31.0,1.0
+ORD-10626,2026-02-11,Electronics,West,PayPal,207.74,3,20.0,498.58,54.0,4.0
+ORD-10014,07/16/2025,sports,South,Debit Card,33.42,7,15.0,198.85,34.0,4.0
+ORD-10086,2025-08-07,Sports,East,Gift Card,36.82,3,30.0,77.32,16.0,5.0
+ORD-10370,2025-10-17,Electronics,East,Gift Card,193.79,2,0.0,387.58,51.0,1.0
+ORD-10165,01-Aug-2025,Toys,North,Debit Card,35.57,6,5.0,202.75,36.0,3.0
+ORD-10878,2025-07-27,Home & Kitchen,South,Debit Card,71.31,2,15.0,121.23,43.0,4.0
+ORD-10335,02/17/2026,Beauty,East,Gift Card,8.47,2,0.0,16.94,43.0,5.0
+ORD-10059,2026-03-15,Sports,South,Gift Card,48.13,6,0.0,288.78,57.0,4.0
+ORD-10354,2025-07-21,Toys,East,Credit Card,52.81,2,10.0,95.06,36.0,
+ORD-10424,2026-02-04,Home & Kitchen,East,Gift Card,66.12,6,5.0,376.88,31.0,4.0
+ORD-10292,06/26/2025,Home & Kitchen,East,PayPal,76.31,7,25.0,400.63,46.0,5.0
+ORD-10041,2025-11-25,Toys,West,Gift Card,44.17,2,0.0,88.34,43.0,5.0
+ORD-10329,2026-02-28,Electronics,East,Debit Card,231.58,5,5.0,1100.01,44.0,3.0
+ORD-10429,2025-07-14,Beauty,North,Credit Card,35.22,2,10.0,63.4,34.0,4.0
+ORD-10079,2026-01-02,Clothing,West,Gift Card,57.15,2,0.0,114.3,,4.0
+ORD-10028,2026-02-26,Toys,East,Gift Card,20.61,2,30.0,28.85,32.0,5.0
+ORD-10254,09/12/2025,Beauty,West,PayPal,35.35,6,0.0,212.1,48.0,5.0
+ORD-10747,2025-07-14,Beauty,North,Credit Card,18.06,7,30.0,88.49,52.0,
+ORD-10458,2025-06-11,Beauty,South,PayPal,51.24,6,25.0,230.58,39.0,5.0
+ORD-10383,2026-03-20,Toys,South,Credit Card,45.21,2,0.0,90.42,,4.0
+ORD-10313,2026-03-09,Home & Kitchen,West,PayPal,44.98,7,10.0,283.37,54.0,5.0
+ORD-10084,2026-05-22,Toys,South,Debit Card,32.88,4,20.0,105.22,41.0,
+ORD-10574,2025-12-19,Electronics,East,Credit Card,246.43,6,20.0,1182.86,29.0,
+ORD-10136,2025-08-13,Books,North,PayPal,19.89,3,0.0,59.67,36.0,4.0
+ORD-10111,2025-06-02,Electronics,South,PayPal,223.83,7,0.0,1566.81,27.0,5.0
+ORD-10194,2025-09-22,Home & Kitchen,East,Gift Card,67.04,2,20.0,107.26,50.0,2.0
+ORD-10178,2025-08-31,Electronics,East,PayPal,218.73,2,25.0,328.1,40.0,2.0
+ORD-10882,08/26/2025,Home & Kitchen,West,PayPal,50.4,7,25.0,264.6,45.0,5.0
+ORD-10496,12/02/2025,Electronics,North,Credit Card,204.44,7,30.0,1001.76,42.0,4.0
+ORD-10129,2026-02-25,Electronics,South,Debit Card,210.25,4,20.0,672.8,29.0,5.0
+ORD-10337,2025-10-18,Books,North,Gift Card,2.0,7,15.0,11.9,39.0,1.0
+ORD-10608,2025-12-15,Clothing,West,PayPal,33.63,6,10.0,181.6,54.0,5.0
+ORD-10124,2026-01-15,Electronics,North,PayPal,209.57,6,0.0,1257.42,28.0,
+ORD-10955,03/13/2026,Toys,South,Gift Card,16.32,7,25.0,85.68,16.0,4.0
+ORD-10226,26-Apr-2026,Electronics,West,Gift Card,207.92,7,0.0,1455.44,27.0,1.0
+ORD-10268,2026-03-03,Toys,North,Gift Card,23.1,4,0.0,92.4,26.0,3.0
+ORD-10972,12/09/2025,Books,South,Debit Card,2.0,118,10.0,212.4,44.0,4.0
+ORD-10995,10/21/2025,Toys,West,Debit Card,27.2,5,5.0,129.2,53.0,4.0
+ORD-10103,02/28/2026,electronics,North,Credit Card,209.15,7,0.0,1464.05,25.0,4.0
+ORD-10593,28-Feb-2026,Toys,West,Gift Card,28.23,1,0.0,28.23,,5.0
+ORD-10849,2026-01-08,TOYS,West,Credit Card,11.79,6,20.0,56.59,50.0,5.0
+ORD-10914,2025-11-08,Books,South,Gift Card,46.13,5,30.0,161.45,44.0,3.0
+ORD-10227,2026-02-11,Home & Kitchen,East,Credit Card,74.37,7,10.0,468.53,28.0,3.0
+ORD-10880,2025-09-06,Toys,North,Credit Card,41.14,4,10.0,148.1,41.0,5.0
+ORD-10301,2025-10-11,CLOTHING,East,Credit Card,59.06,4,0.0,236.24,23.0,
+ORD-10275,2025-12-28,Sports,East,Debit Card,55.75,7,0.0,390.25,42.0,4.0
+ORD-10126,10/22/2025,Books,West,PayPal,23.06,3,0.0,69.18,63.0,4.0
+ORD-10405,10/30/2025,Home & Kitchen,North,Debit Card,62.84,2,10.0,113.11,40.0,
+ORD-10886,2025-08-23,Clothing,East,Gift Card,34.46,3,5.0,98.21,41.0,4.0
+ORD-10036,2026-03-26,Clothing,East,Debit Card,55.93,1,5.0,53.13,59.0,5.0
+ORD-10139,2025-08-08,Sports,West,Gift Card,73.67,4,15.0,250.48,47.0,5.0
+ORD-10303,2026-02-24,Books,West,Credit Card,16.32,7,30.0,79.97,,4.0
+ORD-10267,2025-09-23,HOME & KITCHEN,,PayPal,68.69,6,25.0,309.1,,4.0
+ORD-10533,2025-06-04,Clothing,North,Gift Card,25.73,3,5.0,73.33,,5.0
+ORD-10545,2025-10-31,Clothing,West,Credit Card,46.98,5,0.0,234.9,21.0,
+ORD-10212,01-Feb-2026,Clothing,South,Credit Card,51.1,2,0.0,102.2,53.0,4.0
+ORD-10468,2025-07-28,Books,West,Credit Card,2.0,5,20.0,8.0,33.0,3.0
+ORD-10198,2025-12-02,Clothing,South,Debit Card,44.7,3,30.0,93.87,37.0,5.0
+ORD-10527,2025-11-16, Electronics ,South,Gift Card,206.25,3,20.0,495.0,44.0,
+ORD-10791,2025-06-07,Clothing,East,Credit Card,60.54,1,5.0,57.51,16.0,1.0
+ORD-10241,2025-12-15,Electronics,North,Debit Card,230.64,4,0.0,922.56,66.0,5.0
+ORD-10342,2025-09-12,Home & Kitchen,South,PayPal,49.45,7,10.0,311.54,33.0,4.0
+ORD-10549,2025-12-03,Toys,East,Debit Card,27.2,5,0.0,136.0,34.0,5.0
+ORD-10386,2025-06-24,Toys,West,Gift Card,39.83,2,5.0,75.68,0.0,5.0
+ORD-10957,2026-03-18,Home & Kitchen,South,PayPal,58.54,3,0.0,175.62,31.0,5.0
+ORD-10206,10/19/2025,Sports,North,Debit Card,53.71,6,15.0,273.92,40.0,5.0
+ORD-10295,2025-08-11,Home & Kitchen,North,Credit Card,70.15,3,30.0,147.32,32.0,2.0
+ORD-10768,05-Apr-2026,Books,North,Debit Card,2.0,4,0.0,8.0,38.0,4.0
+ORD-10073,2025-08-22,Beauty,West,PayPal,30.48,1,10.0,27.43,38.0,5.0
+ORD-10743,2026-02-01,Clothing,West,Debit Card,34.43,6,10.0,185.92,16.0,5.0
+ORD-10104,2026-05-02,Toys,East,Credit Card,31.81,2,15.0,54.08,63.0,2.0
+ORD-10686,03/22/2026,Toys,West,Gift Card,29.01,5,0.0,145.05,35.0,4.0
+ORD-10707,19-May-2026,Books,East,Credit Card,34.96,2,10.0,62.93,31.0,
+ORD-10959,2025-11-27,Sports,North,Credit Card,39.81,4,0.0,159.24,46.0,4.0
+ORD-10016,2026-04-27,Toys,South,Credit Card,42.65,3,20.0,102.36,44.0,4.0
+ORD-10439,2026-02-03,Clothing,East,Credit Card,40.96,4,30.0,114.69,37.0,1.0
+ORD-10091,2025-06-22,clothing,East,Debit Card,27.99,6,10.0,151.15,51.0,5.0
+ORD-10088,2025-11-27,Beauty,South,PayPal,2.0,5,5.0,9.5,,
+ORD-10450,01/02/2026,Clothing,West,Gift Card,37.81,3,,96.42,50.0,3.0
+ORD-10102,2025-08-24,Sports,North,Debit Card,65.8,2,0.0,131.6,28.0,3.0
+ORD-10238,04/09/2026,Books,North,Debit Card,9.51,7,5.0,63.24,50.0,4.0
+ORD-10719,2025-06-12,Beauty,West,Credit Card,41.69,6,5.0,237.63,32.0,
+ORD-10246,2026-03-25,Clothing,South,PayPal,60.56,4,10.0,218.02,18.0,
+ORD-10815,2026-01-20,Clothing,,Credit Card,42.14,4,0.0,168.56,,3.0
+ORD-10157,08/21/2025,Books,East,Gift Card,5.74,6,0.0,34.44,47.0,5.0
+ORD-10479,2025-06-26,Books,South,Gift Card,2.0,6,,12.0,31.0,4.0
+ORD-10645,2025-07-23,Clothing,South,Debit Card,62.47,6,25.0,281.12,36.0,5.0
+ORD-10915,11/22/2025,Electronics,North,PayPal,214.42,6,15.0,1093.54,48.0,
+ORD-10820,09-Jul-2025,Books,North,Credit Card,7.02,2,0.0,14.04,25.0,4.0
+ORD-10018,2026-03-28,Clothing,North,PayPal,48.55,3,0.0,145.65,44.0,
+ORD-10975,2025-10-06,TOYS,East,Gift Card,45.43,2,10.0,81.77,32.0,5.0
+ORD-10121,2026-03-24,electronics,East,Gift Card,208.04,1,25.0,156.03,50.0,4.0
+ORD-10857,2026-01-22,Clothing,East,Debit Card,48.32,7,10.0,304.42,40.0,4.0
+ORD-10702,2025-06-09,sports,North,PayPal,44.03,6,0.0,264.18,60.0,4.0
+ORD-10274,2026-04-24,Books,East,PayPal,42.03,3,0.0,126.09,31.0,5.0
+ORD-10433,2025-10-05,Home & Kitchen,North,PayPal,50.71,2,25.0,76.06,29.0,2.0
+ORD-10893,2026-03-29,Books,East,Debit Card,32.2,2,5.0,61.18,41.0,4.0
+ORD-10311,09/25/2025,Clothing,North,Credit Card,51.82,4,0.0,207.28,27.0,4.0
+ORD-10756,09/24/2025,Clothing,West,Gift Card,39.31,7,0.0,275.17,31.0,3.0
+ORD-10831,2026-03-11,Electronics,West,Debit Card,228.08,5,0.0,1140.4,47.0,3.0
+ORD-10546,03/04/2026,electronics,North,Credit Card,225.42,3,30.0,473.38,16.0,5.0
+ORD-10181,2025-06-08,Sports,East,Gift Card,62.46,3,0.0,187.38,16.0,3.0
+ORD-10184,2026-01-22,Books,North,Debit Card,18.48,5,25.0,69.3,34.0,4.0
+ORD-10406,2026-01-01,Electronics,North,Debit Card,195.92,4,20.0,626.94,16.0,4.0
+ORD-10606,2026-02-12,Sports,North,Credit Card,40.55,4,15.0,137.87,58.0,
+ORD-10692,2025-07-18, Toys ,North,Gift Card,30.02,4,0.0,120.08,50.0,5.0
+ORD-10520,2025-12-05,Sports,East,PayPal,50.01,1,0.0,50.01,16.0,5.0
+ORD-10380,04/29/2026,Home & Kitchen,South,Credit Card,,7,0.0,577.36,21.0,3.0
+ORD-10410,2026-01-18, Toys ,,Debit Card,30.24,6,0.0,181.44,16.0,
+ORD-10634,2025-09-24,Toys,West,Debit Card,40.69,5,20.0,162.76,52.0,4.0
+ORD-10369,2026-04-19,Sports,North,Gift Card,40.06,7,5.0,266.4,,
+ORD-10808,2025-06-09,Sports,South,Debit Card,30.63,1,30.0,21.44,29.0,5.0
+ORD-10829,2025-10-25,HOME & KITCHEN,East,PayPal,49.85,7,0.0,348.95,19.0,5.0
+ORD-10751,11/03/2025,Beauty,North,Credit Card,13.58,1,10.0,12.22,43.0,4.0
+ORD-10078,2025-06-22,Sports,South,Gift Card,69.12,2,5.0,131.33,16.0,5.0
+ORD-10573,2026-04-26,Books,South,PayPal,5.74,5,,20.09,43.0,4.0
+ORD-10637,03/09/2026,Home & Kitchen,West,Gift Card,81.52,4,20.0,260.86,20.0,5.0
+ORD-10607,2025-09-09,Books,North,PayPal,2.0,3,30.0,4.2,16.0,5.0
+ORD-10792,01/16/2026,Sports,North,Gift Card,45.9,2,5.0,87.21,25.0,4.0
+ORD-10988,10/30/2025,Books,East,Debit Card,6.67,1,10.0,6.0,31.0,5.0
+ORD-10926,02/17/2026,Beauty,North,Credit Card,20.95,7,10.0,131.99,27.0,
+ORD-10920,2025-09-21, Electronics ,North,Debit Card,228.49,5,10.0,1028.21,27.0,3.0
+ORD-10416,03/08/2026,Sports,West,Credit Card,55.39,2,25.0,83.08,,5.0
+ORD-10740,07/17/2025,Books,South,Debit Card,5.01,6,0.0,30.06,60.0,3.0
+ORD-10561,2025-06-18,Books,West,Debit Card,15.66,3,10.0,42.28,35.0,5.0
+ORD-10067,2026-03-13,SPORTS,West,Credit Card,45.2,7,0.0,316.4,25.0,5.0
+ORD-10536,2026-04-07,Beauty,East,Credit Card,2.0,7,0.0,14.0,26.0,5.0
+ORD-10077,2026-04-03, Electronics ,East,Debit Card,213.73,6,5.0,1218.26,68.0,4.0
+ORD-10105,2025-12-05,Beauty,East,PayPal,48.21,1,0.0,48.21,54.0,3.0
+ORD-10452,02-Sep-2025,Electronics,West,PayPal,209.64,4,15.0,712.78,24.0,5.0
+ORD-10778,2026-03-09,Beauty,South,Gift Card,41.94,2,30.0,58.72,41.0,4.0
+ORD-10638,2025-10-15,Clothing,South,Credit Card,38.1,3,0.0,114.3,58.0,5.0
+ORD-10559,03/16/2026, Toys ,,Debit Card,44.11,5,,165.41,49.0,4.0
+ORD-10758,2025-07-12,Beauty,East,Debit Card,38.22,2,30.0,53.51,19.0,2.0
+ORD-10690,2025-06-15,Sports,North,PayPal,58.37,6,0.0,350.22,34.0,4.0
+ORD-10864,06/06/2025,Sports,South,Credit Card,67.99,2,0.0,135.98,49.0,5.0
+ORD-10933,2026-04-09,Home & Kitchen,North,Gift Card,31.73,2,0.0,63.46,49.0,1.0
+ORD-10866,2025-10-05,Toys,South,Gift Card,6.7,7,30.0,32.83,61.0,
+ORD-10735,2026-01-15,Books,West,Credit Card,13.2,6,,75.24,,
+ORD-10776,2025-08-02,BOOKS,South,Gift Card,23.13,108,30.0,1748.63,41.0,4.0
+ORD-10490,2026-04-28,Toys,North,Gift Card,24.16,5,0.0,120.8,42.0,4.0
+ORD-10993,2025-09-22,Sports,West,Gift Card,16.46,6,0.0,98.76,43.0,4.0
+ORD-10840,23-May-2026, Beauty ,West,Debit Card,37.44,6,0.0,224.64,24.0,4.0
+ORD-10605,2025-07-25,Beauty,North,Credit Card,39.0,7,20.0,218.4,30.0,4.0
+ORD-10363,2025-12-09,TOYS,North,Gift Card,20.8,3,0.0,62.4,34.0,2.0
+ORD-10069,07/06/2025,Books,West,Debit Card,22.24,3,10.0,60.05,42.0,4.0
+ORD-10548,2025-07-27,Clothing,West,PayPal,13.71,3,0.0,41.13,30.0,4.0
+ORD-10160,01/17/2026,Electronics,South,Gift Card,211.54,2,20.0,338.46,34.0,3.0
+ORD-10011,2026-01-23,Home & Kitchen,East,Gift Card,40.64,5,0.0,203.2,46.0,1.0
+ORD-10144,2025-10-24,Electronics,East,Debit Card,216.06,1,20.0,172.85,22.0,5.0
+ORD-10517,2025-10-15,Books,North,Credit Card,2.0,7,30.0,9.8,47.0,3.0
+ORD-10427,28-May-2026,Sports,North,Credit Card,53.1,1,0.0,53.1,27.0,5.0
+ORD-10639,2026-01-13,Home & Kitchen,South,Debit Card,59.0,7,0.0,413.0,34.0,4.0
+ORD-10176,2025-12-13,Books,East,Gift Card,15.4,3,30.0,32.34,43.0,
+ORD-10440,2026-03-29,HOME & KITCHEN,North,Credit Card,76.6,2,0.0,153.2,37.0,4.0
+ORD-10521,2025-06-15,Beauty,West,PayPal,5.54,6,0.0,33.24,34.0,2.0
+ORD-10867,2025-09-12,Books,North,Credit Card,10.48,5,0.0,52.4,50.0,4.0
+ORD-10937,01/19/2026,Electronics,North,Credit Card,192.24,3,0.0,576.72,16.0,
+ORD-10688,2025-06-21,Electronics,East,Debit Card,237.84,5,0.0,1189.2,33.0,5.0
+ORD-10231,2026-03-13,Electronics,West,Gift Card,213.92,7,25.0,1123.08,54.0,5.0
+ORD-10210,2026-04-07,Toys,South,Gift Card,47.88,7,5.0,318.4,,5.0
+ORD-10640,2026-04-16,Books,East,Gift Card,10.01,3,5.0,28.53,35.0,1.0
+ORD-10143,2025-09-08,Clothing,West,PayPal,41.45,2,10.0,74.61,49.0,4.0
+ORD-10753,11/09/2025,Electronics,North,Debit Card,211.3,2,25.0,316.95,38.0,4.0
+ORD-10519,2025-08-16,Books,West,Gift Card,30.83,1,10.0,27.75,38.0,4.0
+ORD-10999,2026-03-03,Toys,West,Debit Card,22.29,6,5.0,127.05,44.0,4.0
+ORD-10298,2026-01-06,Home & Kitchen,South,Gift Card,40.51,5,0.0,202.55,17.0,4.0
+ORD-10766,26-Sep-2025,SPORTS,North,Debit Card,32.51,4,0.0,130.04,31.0,3.0
+ORD-10428,2025-12-15,Books,East,Credit Card,36.26,4,15.0,123.28,57.0,
+ORD-10612,06/26/2025,Sports,East,PayPal,29.41,5,0.0,147.05,52.0,4.0
+ORD-10924,2025-12-14,Toys,North,Credit Card,4.39,7,30.0,21.51,,
+ORD-10932,2026-03-03,Clothing,South,Credit Card,32.46,3,15.0,82.77,44.0,5.0
+ORD-10008,06-Feb-2026,Clothing,East,Credit Card,45.12,1,0.0,45.12,26.0,5.0
+ORD-10156,02/15/2026,Beauty,North,PayPal,37.62,7,15.0,223.84,35.0,4.0
+ORD-10539,2025-06-29,Books,South,Debit Card,3.53,4,15.0,12.0,31.0,5.0
+ORD-10506,2025-06-16,Beauty,South,PayPal,3.74,7,30.0,18.33,76.0,1.0
+ORD-10436,08/15/2025,Clothing,West,Credit Card,19.23,2,25.0,28.84,50.0,4.0
+ORD-10266,2026-04-25,Electronics,South,Debit Card,232.95,7,15.0,1386.05,42.0,4.0
+ORD-10461,09/13/2025, Clothing ,,PayPal,37.61,7,20.0,210.62,22.0,5.0
+ORD-10576,05/07/2026,Toys,West,PayPal,49.34,3,25.0,111.02,44.0,4.0
+ORD-10338,2025-09-07,Electronics,South,Debit Card,238.27,4,25.0,714.81,23.0,4.0
+ORD-10255,16-Jul-2025,Electronics,West,Debit Card,181.62,2,0.0,363.24,28.0,3.0
+ORD-10802,2026-04-19,Home & Kitchen,North,Credit Card,41.5,5,20.0,166.0,37.0,5.0
+ORD-10846,2025-09-15,Home & Kitchen,West,PayPal,83.87,2,5.0,159.35,53.0,4.0
+ORD-10665,04/02/2026,Clothing,North,Gift Card,54.45,4,25.0,163.35,58.0,4.0
+ORD-10560,01/17/2026,Beauty,North,Gift Card,32.44,4,0.0,129.76,44.0,5.0
+ORD-10208,2026-03-27,Sports,,Debit Card,51.51,4,30.0,144.23,45.0,3.0
+ORD-10287,2026-01-15,Home & Kitchen,East,Credit Card,62.36,6,15.0,318.04,48.0,5.0
+ORD-10001,2025-10-28,Sports,North,Debit Card,48.01,6,25.0,216.04,16.0,5.0
+ORD-10341,2025-10-29,Home & Kitchen,East,PayPal,57.73,6,5.0,329.06,37.0,4.0
+ORD-10269,2026-03-08,Clothing,East,Credit Card,27.97,3,30.0,58.74,36.0,4.0
+ORD-10265,2026-04-09,Electronics,East,PayPal,202.03,4,0.0,808.12,44.0,5.0
+ORD-10887,28-Jan-2026,Clothing,South,PayPal,26.93,2,25.0,40.39,52.0,3.0
+ORD-10818,2025-09-16, Beauty ,South,Gift Card,19.75,4,5.0,75.05,52.0,4.0
+ORD-10095,03/27/2026,Toys,West,Debit Card,2.0,6,25.0,9.0,54.0,4.0
+ORD-10965,19-Aug-2025,Toys,South,Debit Card,36.76,7,0.0,257.32,41.0,2.0
+ORD-10042,2026-01-01,Books,South,Gift Card,11.61,6,20.0,55.73,53.0,4.0
+ORD-10801,05/26/2026,Electronics,East,PayPal,260.27,4,5.0,989.03,26.0,5.0
+ORD-10997,01/18/2026,Books,East,PayPal,44.36,1,0.0,44.36,45.0,4.0
+ORD-10830,02/10/2026,Sports,North,Debit Card,44.59,2,5.0,84.72,30.0,4.0
+ORD-10628,09/17/2025,HOME & KITCHEN,North,Credit Card,44.8,2,0.0,89.6,37.0,1.0
+ORD-10045,2026-02-14,Sports,West,Credit Card,79.73,7,0.0,558.11,16.0,5.0
+ORD-10161,2025-12-25,Beauty,North,PayPal,23.75,5,15.0,100.94,42.0,
+ORD-10727,10/20/2025,CLOTHING,West,Gift Card,39.88,6,5.0,227.32,26.0,
+ORD-10629,12/08/2025,SPORTS,West,PayPal,60.52,2,30.0,84.73,41.0,4.0
+ORD-10288,2025-09-05,Books,West,Gift Card,31.23,4,5.0,118.67,41.0,5.0
+ORD-10589,2026-01-27,Beauty,South,Debit Card,47.89,4,15.0,162.83,30.0,5.0
+ORD-10890,02/07/2026,Home & Kitchen,South,Credit Card,70.43,2,5.0,133.82,32.0,5.0
+ORD-10970,2025-07-28,Books,North,Gift Card,2.0,6,5.0,11.4,27.0,
+ORD-10575,2026-05-10,Toys,East,Credit Card,25.76,2,0.0,51.52,40.0,3.0
+ORD-10315,2025-12-22, Electronics ,North,Credit Card,239.79,4,20.0,767.33,33.0,3.0
+ORD-10230,2025-11-09,Home & Kitchen,,Debit Card,81.17,6,20.0,389.62,32.0,5.0
+ORD-10809,2026-03-31,Electronics,South,Debit Card,224.36,4,15.0,762.82,40.0,4.0
+ORD-10698,2025-10-19,Sports,South,Debit Card,56.06,6,10.0,302.72,36.0,1.0
+ORD-10981,2025-08-29,Sports,East,PayPal,42.22,4,0.0,168.88,22.0,4.0
+ORD-10711,2025-07-13,Books,East,Debit Card,60.93,1,0.0,60.93,29.0,5.0
+ORD-10076,06-Oct-2025,Toys,South,Credit Card,18.87,2,0.0,37.74,42.0,5.0
+ORD-10633,2026-03-15,Books,West,Gift Card,23.06,3,0.0,69.18,41.0,5.0
+ORD-10971,2025-09-01,Books,East,Credit Card,11.49,1,25.0,8.62,39.0,5.0
+ORD-10247,2025-12-21,Sports,West,PayPal,61.11,6,15.0,311.66,,4.0
+ORD-10819,2026-03-08,Beauty,West,PayPal,10.06,2,0.0,20.12,20.0,4.0
+ORD-10476,10/26/2025,SPORTS,West,Credit Card,39.98,2,10.0,71.96,64.0,3.0
+ORD-10670,2026-04-27,Home & Kitchen,East,Gift Card,84.51,7,0.0,591.57,43.0,3.0
+ORD-10085,2025-11-11,Clothing,South,Credit Card,42.78,2,10.0,77.0,29.0,5.0
+ORD-10469,2025-11-27,Electronics,East,Credit Card,203.24,2,15.0,345.51,49.0,4.0
+ORD-10225,2026-03-27,Beauty,North,Gift Card,64.51,7,25.0,338.68,55.0,5.0
+ORD-10774,2026-04-24,Toys,East,Credit Card,12.21,4,25.0,36.63,51.0,5.0
+ORD-10331,2025-12-03,Electronics,East,Gift Card,249.02,2,30.0,348.63,16.0,4.0
+ORD-10233,2026-02-10,Beauty,South,Debit Card,2.0,4,30.0,5.6,38.0,4.0
+ORD-10588,2026-03-18,toys,South,Credit Card,46.11,5,5.0,219.02,26.0,3.0
+ORD-10475,2025-07-08,Toys,South,Debit Card,23.0,2,0.0,46.0,28.0,3.0
+ORD-10888,08-Mar-2026,Toys,East,Gift Card,37.58,4,25.0,112.74,31.0,5.0
+ORD-10868,2026-01-23, Electronics ,North,Credit Card,223.74,4,15.0,760.72,30.0,5.0
+ORD-10599,2025-08-05,Clothing,East,Debit Card,1105.5738580313985,4,30.0,3095.61,39.0,5.0
+ORD-10421,2026-03-21,Toys,East,Debit Card,25.49,2,0.0,50.98,47.0,4.0
+ORD-10687,2026-03-08,Electronics,South,PayPal,210.2,1,10.0,189.18,16.0,4.0
+ORD-10182,2026-03-27,Toys,South,Debit Card,50.89,3,0.0,152.67,40.0,4.0
+ORD-10617,2026-02-10, Electronics ,West,Gift Card,213.69,1,0.0,213.69,41.0,3.0
+ORD-10332,2025-08-09,Toys,West,Credit Card,31.05,5,5.0,147.49,46.0,5.0
+ORD-10438,12/21/2025,Toys,North,Gift Card,42.16,1,0.0,42.16,20.0,3.0
+ORD-10049,06/26/2025,Home & Kitchen,West,Gift Card,47.75,4,5.0,181.45,24.0,3.0
+ORD-10005,2025-12-29,Beauty,South,PayPal,43.05,2,25.0,64.57,16.0,5.0
+ORD-10529,2026-03-07,Home & Kitchen,North,Credit Card,48.16,7,10.0,303.41,45.0,5.0
+ORD-10234,2025-07-25,Electronics,North,PayPal,226.14,5,15.0,961.09,21.0,3.0
+ORD-10486,2025-06-13,Home & Kitchen,East,PayPal,66.27,5,20.0,265.08,39.0,4.0
+ORD-10902,2026-03-29,Clothing,West,PayPal,43.37,7,20.0,242.87,42.0,5.0
+ORD-10497,2025-11-22,Sports,West,Credit Card,61.16,5,0.0,305.8,39.0,3.0
+ORD-10896,2025-11-23,Electronics,East,PayPal,205.56,6,0.0,1233.36,,4.0
+ORD-10106,11/06/2025,Beauty,North,Credit Card,21.43,5,30.0,75.0,61.0,5.0
+ORD-10443,2025-11-05,Books,West,Credit Card,3.74,1,0.0,3.74,37.0,4.0
+ORD-10488,09-Apr-2026,Clothing,West,Credit Card,47.62,1,15.0,40.48,0.0,
+ORD-10646,2026-05-14,Clothing,East,Gift Card,55.06,3,0.0,165.18,49.0,4.0
+ORD-10012,2025-09-13,Home & Kitchen,West,PayPal,50.27,7,15.0,299.11,27.0,5.0
+ORD-10738,2026-03-17,Home & Kitchen,South,PayPal,65.15,7,20.0,364.84,39.0,4.0
+ORD-10726,2025-11-03,Beauty,East,Credit Card,31.43,6,25.0,141.44,26.0,5.0
+ORD-10190,03/16/2026,Sports,South,Gift Card,59.43,6,30.0,249.61,47.0,3.0
+ORD-10943,2025-06-11,Sports,West,Debit Card,34.87,5,0.0,174.35,16.0,5.0
+ORD-10832,12/30/2025,Clothing,North,PayPal,49.44,6,5.0,281.81,36.0,4.0
+ORD-10282,2025-11-17,Beauty,South,Debit Card,39.56,4,30.0,110.77,41.0,3.0
+ORD-10029,04-Feb-2026,Beauty,South,Debit Card,25.23,4,0.0,100.92,22.0,4.0
+ORD-10169,05/28/2026,Books,East,Debit Card,2.0,2,20.0,3.2,25.0,
+ORD-10180,03/20/2026,Beauty,East,Credit Card,10.58,3,0.0,31.74,38.0,5.0
+ORD-10100,04/06/2026,Toys,West,Debit Card,60.27,6,5.0,343.54,28.0,3.0
+ORD-10197,2025-10-09,clothing,South,Debit Card,31.91,3,10.0,86.16,48.0,
+ORD-10495,2025-12-22,Toys,East,Credit Card,38.02,3,5.0,108.36,,2.0
+ORD-10721,2026-04-18,Beauty,West,Debit Card,,3,0.0,68.28,19.0,4.0
+ORD-10647,21-May-2026,Toys,East,Debit Card,25.62,2,5.0,48.68,40.0,5.0
+ORD-10976,2025-07-25,Clothing,West,Gift Card,51.44,3,10.0,138.89,52.0,4.0
+ORD-10930,10/19/2025,Beauty,West,Gift Card,17.47,7,20.0,97.83,37.0,5.0
+ORD-10710,2026-05-03,CLOTHING,South,Credit Card,30.3,7,30.0,148.47,66.0,4.0
+ORD-10373,2025-10-07,Sports,East,PayPal,30.71,4,20.0,98.27,21.0,5.0
+ORD-10678,09/26/2025,Sports,North,Credit Card,46.9,4,20.0,150.08,50.0,3.0
+ORD-10883,28-Jan-2026,Beauty,South,Credit Card,22.51,2,30.0,31.51,46.0,4.0
+ORD-10648,2026-01-21,Clothing,East,Credit Card,37.96,2,5.0,72.12,42.0,5.0
+ORD-10797,2026-01-09,Beauty,South,Debit Card,30.17,7,0.0,211.19,25.0,4.0
+ORD-10847,2026-02-06,Sports,North,Credit Card,46.91,5,0.0,234.55,25.0,5.0
+ORD-10460,2025-10-08,books,South,Debit Card,4.51,5,30.0,15.78,53.0,5.0
+ORD-10413,2025-12-12,Beauty,South,PayPal,44.36,5,25.0,166.35,48.0,3.0
+ORD-10131,2025-06-12, Home & Kitchen ,West,Gift Card,51.03,7,0.0,357.21,51.0,4.0
+ORD-10039,2025-09-11,Books,South,Gift Card,5.04,5,20.0,20.16,44.0,3.0
+ORD-10434,2025-11-15,Clothing,East,Debit Card,47.31,2,10.0,85.16,21.0,3.0
+ORD-10215,2025-08-03,Electronics,South,Debit Card,201.33,5,0.0,1006.65,48.0,1.0
+ORD-10555,2026-05-25,Beauty,South,Debit Card,40.35,7,5.0,268.33,21.0,2.0
+ORD-10566,2026-01-05,Beauty,North,PayPal,20.58,4,20.0,65.86,19.0,2.0
+ORD-10762,2026-01-06,Home & Kitchen,,Gift Card,80.28,1,0.0,80.28,55.0,2.0
+ORD-10474,2026-04-13,TOYS,South,Debit Card,45.73,6,20.0,219.5,44.0,4.0
+ORD-10456,2026-01-06,Toys,North,Credit Card,33.78,7,0.0,236.46,49.0,
+ORD-10811,27-Dec-2025,Electronics,North,Credit Card,209.27,6,30.0,878.93,40.0,4.0
+ORD-10260,2025-09-22,Clothing,South,Credit Card,63.26,5,10.0,284.67,33.0,4.0
+ORD-10816,2026-03-08,Sports,North,PayPal,51.01,4,5.0,193.84,20.0,
+ORD-10035,2025-08-07,Books,East,Credit Card,3.34,2,5.0,6.35,27.0,4.0
+ORD-10827,2025-12-08,Sports,East,Gift Card,35.33,2,15.0,60.06,46.0,4.0
+ORD-10309,2025-06-18,ELECTRONICS,West,Credit Card,241.67,6,0.0,1450.02,31.0,5.0
+ORD-10276,2026-01-01,Books,East,Credit Card,22.2,4,10.0,79.92,53.0,5.0
+ORD-10636,2025-07-07,Beauty,West,Gift Card,10.76,1,5.0,10.22,57.0,3.0
+ORD-10654,09/09/2025,Beauty,West,Debit Card,30.53,3,20.0,73.27,35.0,4.0
+ORD-10622,2025-09-14,Beauty,,Gift Card,26.47,5,25.0,99.26,36.0,2.0
+ORD-10835,2026-01-26,Electronics,,Debit Card,230.33,6,5.0,1312.88,17.0,4.0
+ORD-10844,04/06/2026,books,West,Credit Card,13.96,2,0.0,27.92,38.0,5.0
+ORD-10393,2025-10-21,Clothing,North,Gift Card,70.43,3,25.0,158.47,50.0,2.0
+ORD-10939,2025-06-12,Electronics,West,Debit Card,195.63,4,25.0,586.89,45.0,5.0
+ORD-10107,2026-01-29,Clothing,East,PayPal,47.88,2,0.0,95.76,23.0,3.0
+ORD-10946,09-Jul-2025,Electronics,North,PayPal,232.78,7,10.0,1466.51,53.0,5.0
+ORD-10524,04/21/2026,Clothing,West,PayPal,53.23,2,0.0,106.46,28.0,5.0
+ORD-10784,12/07/2025,Clothing,West,Credit Card,27.23,4,5.0,103.47,50.0,
+ORD-10047,06/07/2025,Sports,North,Credit Card,30.08,4,0.0,120.32,58.0,3.0
+ORD-10203,2025-08-07,Toys,East,Credit Card,6.5,5,0.0,32.5,37.0,4.0
+ORD-10947,2025-07-23, Clothing ,East,PayPal,63.77,2,,114.79,49.0,4.0
+ORD-10631,2025-06-25,Beauty,East,Gift Card,34.27,2,5.0,65.11,54.0,5.0
+ORD-10021,2025-07-05,Toys,North,Gift Card,30.98,3,0.0,92.94,37.0,5.0
+ORD-10402,08/03/2025,Beauty,North,PayPal,12.03,6,10.0,64.96,20.0,
+ORD-10083,2025-11-28,Toys,South,Gift Card,18.58,7,0.0,130.06,22.0,4.0
+ORD-10130,02-Feb-2026,Home & Kitchen,,Credit Card,50.07,6,0.0,300.42,29.0,3.0
+ORD-10415,2026-02-11,Home & Kitchen,West,PayPal,45.4,4,0.0,181.6,45.0,5.0
+ORD-10986,2026-03-19,Clothing,West,Gift Card,63.51,6,0.0,381.06,48.0,4.0
+ORD-10841,13-Sep-2025,Toys,North,Debit Card,29.59,5,10.0,133.16,52.0,5.0
+ORD-10741,2025-12-20,Sports,North,Debit Card,47.33,4,15.0,160.92,32.0,4.0
+ORD-10697,2025-10-29,Sports,South,PayPal,63.01,7,15.0,374.91,26.0,5.0
+ORD-10286,2026-03-16, Toys ,North,Debit Card,2.0,5,15.0,8.5,28.0,
+ORD-10123,2025-10-01,Electronics,South,Gift Card,218.39,5,0.0,1091.95,35.0,3.0
+ORD-10033,2026-01-04,Home & Kitchen,North,Debit Card,76.88,7,15.0,457.44,32.0,
+ORD-10978,2026-05-28,Home & Kitchen,West,Gift Card,27.54,1,15.0,23.41,53.0,5.0
+ORD-10516,19-Nov-2025,Toys,,Debit Card,50.13,6,0.0,300.78,16.0,3.0
+ORD-10019,04/29/2026,Sports,North,Debit Card,70.55,7,0.0,493.85,61.0,4.0
+ORD-10928,2025-09-23,Beauty,South,Credit Card,8.43,5,0.0,42.15,36.0,2.0
+ORD-10219,2026-05-18,Electronics,South,Credit Card,220.49,2,0.0,440.98,34.0,3.0
+ORD-10891,2025-12-07,Beauty,West,PayPal,3.07,5,0.0,15.35,38.0,
+ORD-10368,10/11/2025,Electronics,West,Debit Card,207.57,4,20.0,664.22,57.0,4.0
+ORD-10481,2026-04-19,Clothing,East,PayPal,45.14,5,25.0,169.27,35.0,5.0
+ORD-10356,07/04/2025,Home & Kitchen,North,Credit Card,55.59,2,10.0,100.06,50.0,4.0
+ORD-10661,08/23/2025,Beauty,West,Credit Card,34.61,4,30.0,96.91,42.0,4.0
+ORD-10224,2025-09-14,Sports,South,PayPal,58.24,7,,346.53,51.0,
+ORD-10759,2026-03-11,Beauty,West,Gift Card,19.3,6,30.0,81.06,24.0,
+ORD-10092,08/05/2025,Sports,South,Gift Card,46.73,6,30.0,196.27,41.0,5.0
+ORD-10151,2025-09-28,Toys,West,PayPal,38.77,5,0.0,193.85,47.0,3.0
+ORD-10985,2026-04-29,Clothing,North,Debit Card,32.23,2,25.0,48.34,60.0,
+ORD-10317,2025-11-01,Clothing,West,Debit Card,45.6,4,0.0,182.4,35.0,4.0
+ORD-10448,07-Sep-2025,Home & Kitchen,North,Debit Card,68.07,2,5.0,129.33,35.0,4.0
+ORD-10803,02/18/2026,Beauty,East,Debit Card,34.91,1,0.0,34.91,42.0,3.0
+ORD-10745,04/17/2026, Sports ,East,PayPal,46.54,1,0.0,46.54,48.0,
+ORD-10522,2026-03-19,Clothing,West,PayPal,60.23,7,20.0,337.29,58.0,5.0
+ORD-10279,06/27/2025,Electronics,South,Credit Card,221.58,1,30.0,155.11,16.0,5.0
+ORD-10583,2025-06-07,Beauty,North,Debit Card,31.22,5,0.0,156.1,35.0,4.0
+ORD-10764,10/14/2025,Electronics,West,Gift Card,223.55,4,15.0,760.07,16.0,1.0
+ORD-10604,09/11/2025,beauty,East,Debit Card,10.18,1,0.0,10.18,46.0,4.0
+ORD-10984,20-May-2026,Clothing,East,Debit Card,43.98,4,25.0,131.94,52.0,4.0
+ORD-10349,2025-06-09,Sports,North,Credit Card,47.7,7,0.0,333.9,52.0,3.0
+ORD-10927,2026-02-03,Books,North,Debit Card,23.91,7,25.0,125.53,42.0,4.0
+ORD-10374,08/30/2025,Books,East,Debit Card,16.31,7,0.0,114.17,32.0,3.0
+ORD-10400,2025-12-09,Beauty,North,PayPal,19.22,3,0.0,57.66,49.0,4.0
+ORD-10704,2025-09-09,Books,West,Credit Card,29.29,7,25.0,153.77,41.0,4.0
+ORD-10257,2026-03-05,Home & Kitchen,West,Debit Card,44.65,5,15.0,189.76,40.0,
+ORD-10944,2025-09-26,Toys,South,Credit Card,25.84,3,0.0,77.52,54.0,5.0
+ORD-10851,18-Dec-2025,Sports,South,Debit Card,28.98,3,0.0,86.94,49.0,
+ORD-10072,2026-04-10,Sports,North,Gift Card,45.9,5,0.0,229.5,25.0,2.0
+ORD-10195,2025-12-21,Toys,South,Gift Card,40.71,2,5.0,77.35,48.0,5.0
+ORD-10483,2025-06-01,Books,West,Debit Card,2.0,6,30.0,8.4,40.0,2.0
+ORD-10855,2025-12-19,Sports,East,Debit Card,33.35,5,20.0,133.4,24.0,5.0
+ORD-10137,2025-11-18,Clothing,South,PayPal,39.46,1,20.0,31.57,43.0,2.0
+ORD-10494,2026-05-25,clothing,South,Gift Card,30.18,6,0.0,181.08,33.0,2.0
+ORD-10772,2026-05-20,Sports,West,Debit Card,21.71,6,0.0,130.26,44.0,4.0
+ORD-10550,09/01/2025,Toys,South,Debit Card,26.42,1,25.0,19.82,29.0,5.0
+ORD-10462,2025-06-27,Home & Kitchen,East,PayPal,68.14,4,0.0,272.56,34.0,4.0
+ORD-10201,2025-08-01,Electronics,East,Gift Card,225.08,2,0.0,450.16,36.0,3.0
+ORD-10312,03/13/2026,Electronics,East,Debit Card,231.61,7,0.0,1621.27,40.0,
+ORD-10290,2026-03-06,Electronics,North,Debit Card,232.24,5,10.0,1045.08,26.0,
+ORD-10960,2026-05-24,Electronics,South,Credit Card,226.35,6,10.0,1222.29,,1.0
+ORD-10189,2025-07-02,Beauty,North,Credit Card,21.89,1,0.0,21.89,23.0,4.0
+ORD-10763,2026-03-07,Beauty,North,Debit Card,29.23,1,25.0,21.92,37.0,5.0
+ORD-10112,2026-01-30,Sports,North,Debit Card,64.83,3,15.0,165.32,53.0,4.0
+ORD-10949,2025-12-23,Books,North,Gift Card,27.15,7,0.0,190.05,24.0,4.0
+ORD-10183,2025-09-06,Beauty,West,PayPal,42.63,5,0.0,213.15,65.0,1.0
+ORD-10152,2025-11-17,Home & Kitchen,South,Debit Card,60.06,7,10.0,378.38,19.0,1.0
+ORD-10824,06/27/2025,Home & Kitchen,West,Gift Card,66.02,5,15.0,280.58,33.0,5.0
+ORD-10325,2026-01-02,CLOTHING,East,PayPal,29.82,5,15.0,126.73,19.0,2.0
+ORD-10703,29-Sep-2025,Electronics,North,PayPal,247.3,1,15.0,210.2,34.0,5.0
+ORD-10044,2025-07-09,Home & Kitchen,South,Gift Card,59.02,7,20.0,330.51,44.0,1.0
+ORD-10444,08/08/2025,Toys,North,PayPal,853.8929627455772,2,0.0,1707.79,60.0,4.0
+ORD-10787,2026-01-28,Toys,West,Gift Card,28.88,3,15.0,73.64,34.0,4.0
+ORD-10006,08/04/2025,Beauty,West,Debit Card,12.18,4,0.0,48.72,34.0,
+ORD-10250,2026-05-20,Books,West,Gift Card,16.64,4,30.0,46.59,44.0,3.0
+ORD-10823,05/02/2026,Beauty,South,PayPal,12.33,7,5.0,81.99,28.0,5.0
+ORD-10075,2026-04-21,Home & Kitchen,West,Gift Card,84.03,-6,30.0,352.93,19.0,4.0
+ORD-10512,2026-02-11,Sports,West,Debit Card,51.69,7,20.0,289.46,61.0,5.0
+ORD-10940,2025-11-24,HOME & KITCHEN,North,PayPal,41.86,7,25.0,219.76,41.0,5.0
+ORD-10391,2025-11-21,Home & Kitchen,,Debit Card,70.87,3,10.0,191.35,58.0,4.0
+ORD-10895,10/17/2025,Toys,West,PayPal,38.0,7,,239.4,31.0,4.0
+ORD-10432,2025-06-17,Electronics,West,Gift Card,217.22,1,25.0,162.92,45.0,4.0
+ORD-10068,06-Apr-2026,Sports,North,Debit Card,44.05,4,0.0,176.2,55.0,3.0
+ORD-10167,2026-04-16,Home & Kitchen,North,PayPal,64.98,1,20.0,51.98,38.0,3.0
+ORD-10904,2025-10-14,Electronics,West,Gift Card,207.7,7,20.0,1163.12,,5.0
+ORD-10730,10-May-2026,Toys,North,Gift Card,16.57,5,25.0,62.14,44.0,1.0
+ORD-10554,11/28/2025,Electronics,East,PayPal,218.65,1,20.0,174.92,48.0,1.0
+ORD-10366,09/11/2025,Electronics,North,Credit Card,203.38,7,0.0,1423.66,50.0,5.0
+ORD-10345,2025-12-30,Electronics,North,Credit Card,210.14,5,20.0,840.56,41.0,5.0
+ORD-10584,2026-02-27,Books,South,PayPal,26.27,7,5.0,174.7,47.0,5.0
+ORD-10535,07/30/2025,Clothing,West,Credit Card,47.65,5,5.0,226.34,21.0,5.0
+ORD-10398,2025-12-25,Books,North,Credit Card,13.35,3,15.0,34.04,29.0,3.0
+ORD-10185,2025-08-08,Books,West,Debit Card,2.0,6,30.0,8.4,29.0,4.0
+ORD-10348,2026-02-06,Electronics,East,Gift Card,228.12,3,10.0,615.92,30.0,5.0
+ORD-10615,2025-12-16,Home & Kitchen,South,Debit Card,52.81,5,20.0,211.24,55.0,4.0
+ORD-10919,2026-03-16,Sports,East,PayPal,52.5,2,0.0,105.0,22.0,2.0
+ORD-10211,2025-10-08,Home & Kitchen,East,PayPal,51.12,7,5.0,339.95,41.0,3.0
+ORD-10579,04-Jan-2026,Beauty,West,Debit Card,56.65,3,25.0,127.46,40.0,4.0
+ORD-10502,11/08/2025,Home & Kitchen,North,Credit Card,48.31,5,20.0,193.24,45.0,3.0
+ORD-10537,2025-06-16,Toys,South,Gift Card,33.89,3,,96.59,40.0,2.0
+ORD-10196,06/29/2025,Sports,West,Gift Card,47.69,6,25.0,214.6,24.0,5.0
+ORD-10175,09-Apr-2026,Home & Kitchen,South,Debit Card,51.28,6,0.0,307.68,45.0,3.0
