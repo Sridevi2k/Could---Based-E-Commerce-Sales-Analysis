@@ -1,2 +1,24 @@
-# Could---Based-E-Commerce-Sales-Analysis
-Cloud-based E-Commerce Sales Analysis using Python, Pandas, NumPy, and Matplotlib in Google Colab. Performed data cleaning, missing value analysis, duplicate detection, exploratory data analysis (EDA), and visualization to generate business insights.
+# E-Commerce Sales Analysis using Python
+
+## Open Project in Google Colab
+🔗 https://colab.research.google.com/drive/1czXjfJqACRVnEIzLU88gdvauEq_jPYZF?usp=sharing
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Google Colab
+
+## Tasks Performed
+- Data Loading
+- Missing Value Analysis
+- Duplicate Detection
+- Exploratory Data Analysis (EDA)
+- Bar Chart Visualization
+- Histogram Analysis
+
+## Key Insights
+- Identified missing values and duplicate records.
+- Analyzed data distribution and trends.
+- Generated visual insights using charts.
